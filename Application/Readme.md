@@ -1,6 +1,6 @@
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
-| ASP.NET | .NET Framework | Azure Web App, Virtual Machine| |
+| ASP.NET | .NET Framework | Azure Web App, Virtual Machine | zaxkeroth(c) ||
 
 
 # ASP.NET MVC application
