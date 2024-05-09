@@ -17,7 +17,7 @@ adware.script.py.pusher.gen
 
 * Legal shareware or freeware
 * Generates revenue
-* Hijacks and installs unwanted apps, clicks at cost of user device.
+* Hijacks clicks and installs unwanted apps at the cost of End-user device.
 
 ```
 
