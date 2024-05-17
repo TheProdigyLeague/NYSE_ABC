@@ -1,5 +1,3 @@
 [submodule "sass", "Google Ads"]
 	path = sass
 	url = https://github.com/sass/sass
-	path = Google Ads
-	url = https://github.com/googleads/googleads-mobile-unity
