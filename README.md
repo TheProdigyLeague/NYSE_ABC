@@ -15,8 +15,8 @@ adware.script.py.pusher.gen
 
 ```
 
-* Legal shareware or freeware
-* Generates revenue
+* Legal shareware or freeware.
+* Generates revenue.
 * Hijacks clicks and installs unwanted apps at the cost of End-user device.
 
 ```
@@ -26,9 +26,9 @@ c:\usr\app_data\curr_dir\sys-HKEY\c90b8d7aebb329a125448aae186ab57b\pup.op.c
 ```
 
 * Adwords, keywords ```grep```
-* DevOps purchase scripts from darknets
-* User crytpo exchanges
-* Data mining algorithms
+* DevOps purchase scripts from darknets.
+* User crytpo exchanges.
+* Data mining algorithms!!!
 
 ```javascript
 
