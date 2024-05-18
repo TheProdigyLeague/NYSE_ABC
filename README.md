@@ -3,7 +3,7 @@
   <a href="https://github.com/TheProdigyLeague/NYSE_ABC">
     <img src="https://github.com/TheProdigyLeague/NYSE_ABC/assets/30985576/d569a7f1-e683-4815-b571-4495fce4d507" alt="Logo" width="400" height="200">
   </a>
-  <h3 align="center">Basically, we know everything about you. </h3>
+  <h3 align="center">Endorsed by our sponsors.</h3>
 
 <a href="https://github.com/TheProdigyLeague/NYSE_ABC">
 <img src="https://github.com/TheProdigyLeague/NYSE_ABC/assets/30985576/22173967-432e-4f4f-a9e4-a6dd14e541ee">
