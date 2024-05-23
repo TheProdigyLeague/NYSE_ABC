@@ -17,7 +17,7 @@ My services include:
 
 ### To help explain things as legally as possible... 
 
-  We add examples, very long lists, thousands hours of explanatory, corporately shilled videos, and legalese definitions for charlatan buzzwords. And if customer's start asking those pesky questions about their privacy that we have indeed invaded, ignore them. Only businesses can contact us. (High social creditors with first class status citizenship is the rule.)
+  We add examples, very long lists, a thousand hours of explanatory, corporately shilled videos, and legalese definitions for charlatan buzzwords. And if customer's start asking those pesky questions about their privacy that we have indeed invaded, ignore them. Only businesses can contact us. (High social creditors with first class status citizenship is the rule.)
 
 #### PRIVATE INFORMATION ALPHABET INC. COLLECTS
   
