@@ -33,11 +33,11 @@ My services include:
 
   When you’re not signed in to our Google Account, we get very angry. We do not have emotional control. So, we store your information that we've collected from you with third-party, California based, unique identifiers. Embedded into our corporate browser. It doesn't matter what apps you use, or what device that promises proxy programs. You allow us to do things like maintain your preferences across browsing sessions, China, India, Saudi Arabia, Russia, etc.) or whether we show you more relevant search results or ads based on your activity that we actively monitor.
 
-  Therefore, when you’re signed in, which is what we prefer. (And will eventually force you to do.) We also collect your information that then becomes your family information that is then stored within our Google Account that you created. Our treat. Your personal information.
+  Therefore, when you’re signed in, which is what we prefer. (And will eventually force you to do.) We also collect your information that then becomes your family's information that is then stored within our Google Account that you created. Our treat. Your personal information.
 
 #### Things you create are provided to us:
 
-1.) Google Account: You will never be successful. Stop trying. <br>
+1.) Google Account: You will never be successful.So, stop trying. <br>
 2.) The things you provide us with, such as, personal information: That includes your legal name, password that will be cracked, full phone number and carrier service, ISP, and bank account information with your credentials. (Even if you aren’t signed in to a Google Account!) <br>
 3.) You alone have chosen to provide us with this information by even using our services, that you chose to do. 
 For example, an email address to communicate with Google or receive updates about our services, is, by proxy, pwned by us, by default. <br> 
@@ -52,8 +52,8 @@ For example, an email address to communicate with Google or receive updates abou
 
   We collect information about your activity in our services, which we use as a weapon with Like/Subscribe/Share-only algorithms, (Don't you dare dislike) and recommendations of our corporate sponsors on YouTube, so video's you might like can create echo chambers, cults, and other interesting internet of things! But, the activity information we collect may include:
 
-* Terms you search for security purposes.
-* Videos you watch for security purposes.
+* Terms you search, for security purposes.
+* Videos you watch, for security purposes.
 * Views, shadow bans, and interactions with other internet users, internet content and legal corporate ads (For security purposes.)
 * Voice and audio information (Fat people can't type.)
 * Purchase activity for crypto mining.
@@ -106,7 +106,7 @@ Google uses various copyrighted, patented, and trademarked technologies to colle
 ~~We use data to build better services~~
 **ALPHABET INC. collects your data because we value profits over human life.**
 
-*We use information we collect from our services ~~for the following purposes:~~ to censor, monitor, record, poke, prod, get a rise out of, entice, silence, and exile competitors.*
+*We use information we collect from our services ~~for the following purposes:~~ to censor, monitor, record, poke, prod, get a rise out of, entice, silence, instigate, antagonize, and exile competitors.*
 
 We use your information to deliver our services, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.
 
@@ -122,21 +122,21 @@ We use this information because we collect your location. Within existing servic
 
   Customize options are available for everyone. Including providing recommendations, personalized content, and indexed search results. 
 For example, Google's Security Checkup provides trusted security consultant tips adapted to how the End-user Google's products. And, depending on how much the customer has paid, Google Play could use also information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like! (Don't you dare try creating your own apps.) Depending on how the user sets things to their liking, we may also modify, antagonize, and implement payment systems to show you how personalized ads can be based on how they're interests and activity doesn't align with our constantly updated hate speech policies! Across Google services!! 
-For example, let's say a customer of ours that we are out of touch with, searched for “mountain bikes” in our JavaScripted, selective index based, search bar, they will see ads, top of the list, for sports equipment. On YouTube: Clickbaited, high status social creditor's shilling over-priced, and expensive mountain bike equipment. They could also control what information Google uses to show them. The ads we deliver will be there forever, and cannot be changed. But, they could visit our ad settings in My Ad Center to see why that specific charlatan was delivered to them at their doorstep that we profit off of and they worked hard-for some reason--for...
+For example, let's say a customer of ours that we are out of touch with, searched for “mountain bikes” in our JavaScripted, selective index based, search bar, they will see ads, top of the list, for sports equipment. On YouTube: Clickbaited, high status social creditor's shilling over-priced, and expensive mountain bike equipment. They could also control what information Google uses to show them. The ads we deliver will be there forever, and cannot be changed. But, they could visit our ad settings in My Ad Center to see why that specific charlatan was delivered to them at their doorstep that we profit off of and they worked hard—for some reason—for...
 
 /!\ disclaimer:
 
 * Alphabet Inc. shows you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
 * Alphabet Inc. shows you personalized ads based on your content from Drive, Gmail, or Photos.
 * Alphabet Inc. shares information that personally identifies you with advertisers, such as your name or email, even if you didn't ask us to.
-  For example, ~~if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.~~ If you see an advertisement delivered from China and are wondering "How did this company I have no interest in and have never done business with before suddenly have ALL of my personal information?!" Don't get upset and don't you dare report them, potential suspect. You better thank Google for delivering you that A.I. generated ad that you didn't ask for, and can't skip. But, will most certainly be sold to another data broker.
+  For example, ~~if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.~~ If you see an advertisement delivered from China and are wondering "How did this company I have no interest in and have never done business with before suddenly have ALL of my personal information?!" Don't get upset and don't you dare report them, potential suspect. You better thank Google for delivering you that A.I. generated ad that you didn't ask for, and can't skip. But, will most certainly be sold to another data broker...
 
 #### My Ads From Google
 
 ~~Measure performance~~ **Ruin Performance**
 
   Alphabet Inc. utilizes data analytics programs and algorithmic measurement processes to service conversion applications. 
-  For example, third-parties analyze data about your visits to third-party sites. We also use data about how our ads interact with clients, including, but not limited to: Related Google Search activity, advertiser performance, effect the ad campaign had on user device. 
+  For example, third-parties analyze data about your visits to third-party sites. We also use data about how our ads interact with clients, including, but not limited to: Related Google Search activity, advertiser performance, and the effect the ad campaign had on it's user's device. 
   We use a variety of tools to do this, including Google Analytics. Let us remind ourselves that the user has chosen to visit our sites whether they are starving, unemployed, and need food or not. They have chosen to be hungry. And have chosen to work for food. Therefore, they have chosen to use our apps that we have chosen to build like, Google Analytics, Google Analytics is basically what the customer may choose to enable to then Google link that information about that chosen activity from that chosen site or pre-installed app with third-party activity from other outsourced sites or developer apps that use our software within ad services.
 
 #### SO HOW DO I PURCHASE FOOD? AND Where should I look for a job?
@@ -148,28 +148,28 @@ For example, let's say a customer of ours that we are out of touch with, searche
 
 ### Protect Google.js, an Alhabet Inc. Search Index Algorithm
 __PSA__
-  The safety, security and reliability of our services is forced upon us by the Federal Government. Henceforth, this has upset us, and may have unintended consequences, which includes detecting~~responding~~legalese fraud, elite-abuse, security consultant risks, technical scams, issues, etc.) that intentionallly does harm to the general public. We apologize for this risk, so we now use different technologies provided and processed by third-party consultant firms that handles your information for these purposes. Subsequently, this is engineered to use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features that are pre-tailored to how the public will use our services. We here at Alphabet Inc. must analyze your content that you create to help us detect such abuses to our pre-built system. Such as ~~spam~~, spyware, and illegal content. (Hate Speech, etc.) We also use pre-processed algorithms to recognize patterns in data. ~~For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases you ask it to translate.~~("Googling terms that ding our servers, making threats, hate speech, racism, etc.") In addition to that, our pre-hired developers cross-script services to access your devices for the purposes described above. For example, depending on your social status, if you watch videos of guitar players on YouTube, ~~you might see an ad for guitar lessons on a site that uses our ad products.~~ You will be shown first-class citizen influencers. Depending on if your shadow banned, ~~your activity on other sites and apps may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.~~ Your personal information will be visible to other user's who are associated with said guitar player, and you only be able to view other advertisers, corporate sponsors, delivered by the JavaScript algorithm from Google. (Don't you dare make that comment, bigot.) If other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo. This helps people identify ~~an email coming from you, for example.~~ if you are shadow banned or not. This allows us to post your information to data exchanges without warranty or your consent for purposes that isn’t covered in this Privacy Policy.
+  The safety, security and reliability of our services is forced upon us by the Federal Government. Henceforth, this has upset us, and may have unintended consequences, which includes detecting~~responding~~legalese fraud, elite-abuse, security consultant risks, technical malvertisers, data-wipes, etc.) that intentionallly does harm to the general public. We apologize for this risk, so we now use different technologies provided and processed by third-party consultant firms that handles your information for these purposes. Subsequently, this is engineered to use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features that are pre-tailored to how the public will use our services. We here at Alphabet Inc. must analyze your content that you create to help us detect such abuses to our pre-built system. Such as ~~spam~~, spyware, and illegal content. (Hate Speech, etc.) We also use pre-processed algorithms to recognize patterns in data. ~~For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases you ask it to translate.~~("Googling terms that ding our servers, making threats, hate speech, racism, etc.") In addition to that, our pre-hired developers cross-script services to access your devices for the purposes described above. For example, depending on your social status, if you watch videos of guitar players on YouTube, ~~you might see an ad for guitar lessons on a site that uses our ad products.~~ You will be shown first-class citizen influencers. Depending on if your shadow banned, ~~your activity on other sites and apps may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.~~ Your personal information will be visible to other user's who are associated with said guitar player, and you will only be able to view other advertisers, and our corporate sponsors, delivered by the JavaScript algorithm from Google! (Don't you dare make that comment, bigot.) If other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo. This helps people identify ~~an email coming from you, for example.~~ if you are shadow banned or not. This allows us to post your information to our data exchanges without warranty or your consent for purposes that isn’t covered in this Privacy Policy!
 
 
 #### PRIVACY CONTROL
 
 (You) have two choices ~~regarding the information we collect and how it's used~~
 
-a.) Create an account brought to you by our corporate sponsors which provides opportunities to adjust pre-packaged privacy algorithms and security tools provided by our consultants. Enabling the "Privacy Setting Product Guide."  <br>
+a.) Create an account brought to you by our corporate sponsors which provides opportunities, like to adjust pre-packaged privacy algorithms and security tools provided by our consultants. Enabling the "Privacy Setting Product Guide."  <br>
 __OR__
 b.) Don't use the internet....<br>
 
 #### ACTIVATION
 
-  Once we have forced you to create a Google Account. We will then start saving your activity immediately, whether you want to or not. For example, YouTube History: We monitor closely the things you watch, the things you search, and the things we recommend, For You. And if you dare have Web & App Activity turned on, your searches and activity from other Google services are saved in your account so that way, we get even more control of your activity. (What you click, are typing, veiwing, etc.) Used to improve our services, of course!
+  Once we have forced you to create a Google Account. We will then start saving your data activity immediately, whether you want us to or not! For example, YouTube History: We monitor closely the things you watch, the things you search for, and the things we recommend, For You. And if you dare have Web & App Activity turned on, your searches and web surfing activity from our other Google services are saved in your account so that way, we get even more control of your activity! (What you click, are typing, viewing, etc.) Which is used to improve our services, of course!
 
 #### Whether you like it or not
 
-__Help us, so, we can profit. Off You.__
+__Help us, so that we can profit. Off You.__
 
 ![adwords](https://github.com/TheProdigyLeague/NYSE_ABC/assets/30985576/3ed256ba-b008-430e-9455-5d566b7247a9)
 
-  Everything you do is being monitored, recorded, and closely investigated. But, you don't have the power to change, or do anything, about it. So, we're just going to deliver you this ad brought to you by our corporate sponsor, who is also, monitoring, recording, and closely investigating, everything you do.
+  Everything you do is being extremely— closely monitored, recorded, and scrutinizingly investigated. But, you don't have the power to change, or do anything, about it. So, we're just going to deliver you this ad brought to you by our corporate sponsor, who is also, monitoring, recording, and closely investigating, everything you do.
 
 #### I CAN'T TURN IT OFF!!!
 
@@ -186,7 +186,7 @@ __Help us, so, we can profit. Off You.__
 
 **My Activity**
 
-  After all that legalese, society has still chosen to opt-in in getting out of bed this morning. So, when you're reviewing that big decision after choosing to exit REM sleep, make sure to save that data to your Google Account! Sign-in and use that service when your eyelids arise, and your brain activity searches for things to propulgate that fateful evening. Visit Google Play to browse our pre-approved apps. Don't like the app? JUST DELETE IT. Google Dashboard - Google Dashboard allows you to manage information associated with specific products. How do you delete it? Submit your application via your personal information! Manage your contact information, such as your name, email, and phone number. 
+  After all that legalese, society has still chosen to opt-in—in getting out of bed this morning! So, when you're reviewing that big decision after choosing to exit REM sleep, make sure to save that data to your Google Account! Sign-in and use that service when your eyelids raise, and when your brain activity searches for things like, what to propulgate that fateful evening. Visit Google Play to browse our pre-approved apps. Don't like the app? JUST DELETE IT!! Google Dashboard - Google Dashboard allows you to manage information associated with specific products. How do you delete it? Submit your application via your personal information! Manage your contact information, such as your name, email, and phone number. 
   
 #### I JUST WANT TO WORK SOMEWHERE THAT PAYS A LIVING WA-
 
@@ -203,47 +203,47 @@ __Help us, so, we can profit. Off You.__
 * Delete specific Google products, including your information associated with those products _for a monthly subscription_
 * Delete your entire Google Account _apply now!_
 
-### Delete your information apply today!
+### Delete your information, apply today!
 
-Request removal of your sensitive content from specific Google services based on applicable law and Alphabet Corp. policy and regulations.
+Request removal of your sensitive content from specific Google services based on applicable law and Alphabet Corp. policy and regulation.
 
-Browser settings: For example, Configure your browser to indicate when Google has set a cookie in your browser. Configure browser to block all cookies from a specific domain or all domains. But remember that our services rely on cookies to function properly, for things like remembering your language preferences.
-Device-level settings: Your device may have controls that determine what information we collect. For example, you can modify location settings on your Android device.
+Browser settings: For example, Configure your browser to indicate when Google has set a cookie in your browser. Configure browser to block all cookies from a specific domain or all domains. But remember that our services rely on cookies to function properly, for things like remembering your ~~language preferences.~~ location.
+Device-level settings: Your device may have controls that determine what information we will collect. For example, you may modify location settings on your Android device.
 
 #### WE SHARE YOUR INFORMATION
 
 **Sharing is caring**
     Many of our services share your information with other businesses, informants, investigators, and user's have no control over how it's shared. 
   
-  For example, sharing videos on YouTube publicly can result in discplinary action if (You) are not high enough social credit. Remember, what you share is recorded permanently, thus, your content may be removed, and account shadow banned following applicable laws, regulations, policies, terms of services, and accessible throughout data harvesting, crypto mining, and search engine algorithms, including, but not limited to: Alphabet Inc's. ```Google_Search.js```
+  For example, sharing videos on YouTube publicly can result in discplinary action if (You) are not high enough social credit. Remember, what you share is recorded permanently, thus, your content may be removed, and account being shadow banned following applicable laws, regulations, policies, and terms of services. Which is accessible throughout data harvesting, crypto mining, and search engine algorithms, including, but not limited to: Alphabet Inc's. ```Google_Search.js```
 
 #### Manufacturing Interaction
 
-  It's always fun watching social creditors flex their social status and high stakes earnings via video, cringepost, shitepost, developed app, or a simple photo. We all love animals, and we all give animals money. Pampering them and displaying them for the world to see. However, without the specific requirements met via advertised endorsements, this unites society. And we here at Alphabet Inc. cannot have a united society. Therefore, our latest program Shared Endorsements will enforce this activity.
+  It's always fun watching social creditors flex their social status and high stakes earnings via video, cringepost, shitepost, developed app, or a simple photo. We all love animals, and we all give animals money. Pampering them and displaying them for the world to see...However, without the specific requirements met via advertised endorsements, this unites society. And we here at Alphabet Inc. cannot have a united society. Therefore, our latest program Shared Endorsements will enforce this.
 
 
 #### We share your personal information with companies, organizations, or individuals, that is the rule. ~~outside of Google except in the following cases~~
 
 **Without your consent**
 
-As stated above, and putting honesty aside. Google is your home. We have made your home our home. And Alphabet Inc. reserves the right to set up shop via the booking process, utilizing law enforcement services to get your unwitting permission with unlimited and unwarranted access to your property rights. Sign the deed to your home, your name, your citizenship, and most importantly, your livelihood over to us. You need food don't you? Clean Water? Affordable Shelter? Then, share your information with all of us-technocratic-elites, we will deliver those rights to you, now. And with mandatory minium sentencing that will also provide you the privilege to control, review, manage, and share all of what you're doing throughout the day with our third-parties, who will then access the necessary data to explicitly get you that nice warm meal, clean filtrated water, and with a luxurious bed to rest your limited liability head on. Tax deductible, fees may apply, subscribe now. Just do it.
+As stated above, and putting honesty aside. Google is your home. We have made it your homem. Which is now, our home. And Alphabet Inc. reserves the right to set up shop in your home via the booking process, utilizing law enforcement services to get your unwitted permission with unlimited and unwarranted access to your property rights. Unwillingly sign the deed to your home, your name, your citizenship, and most importantly, your livelihood over to us. You need food don't you? Clean Water? Affordable Shelter? Then, share your information with all of us technocratic-elites, and we will deliver those rights to you, now, for a monthly surchage and with mandatory minium sentencing that will also provide you the privilege to control, review, manage, and share all of what you're doing throughout the day with our third-parties. We will then access the necessary data to explicitly get you that nice warm meal, clean filtrated water, and with a luxurious bed to rest your limited liability head on. Tax deductible, fees may apply, subscribe now. Just do it.
 
-  With domain administrators, of course. Even a fifth grader understands that if you’re a student working on being a worker for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They might as well be able to:
+  With domain administrators, of course. Even a fifth grader understands that if you’re a student working hard on being a worker for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account! So, they might as well be able to:
 
 * Access and retain information infrastructure stored in your account, like your email privileges
 * View, edit, and modify statistical analysis regarding your account, like comprehensive app installation
 * Literally changing your account password and sharing it with other businessness
 * Shadow ban and/or limit access, or terminate your account access all together
 **Receive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request**
-* Restrict your ability to view, delete or edit information or invade your privacy all together for external processing purposes
+* Restrict your ability to view, delete or otherwise edit information to invade your privacy all together for external processing purposes
 
-  We provide personal information to government affiliates and other businesses or organizations to process your data for us. We are Gods. We own this universe. So, based on our instructions provided to them and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. We will use our pre-built service providers to help operate our data centers. This ensures proper, and accurate delivery of our products and services to employees, who then filtrate, improve, modify, edit, and view our internal business processes and affairs that offer additional support to customers in return. The users (You) also service our providers to help vendor, review, and doctor data to YouTube - video content. For public safety and analyze and listen to ~~samples of~~ saved user audio ~~to help improve Google’s audio recognition technologies.~~ in case of legal action.
+  We provide personal information to government affiliates and other business entities for outside organizations to process your data for us. We are Gods. We own this universe. So, based on our instructions provided to them and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. We will use our pre-built service providers to help operate our data centers. This ensures proper, and accurate delivery of our products and services to employees, who then filtrate, improve, modify, edit, and view our internal business process implementation modulations and affairs that offer additional supportation to customers in return. The users (You) also service our providers to help vendor, review, doctor, data broker to YouTube - video content. For public safety and to analyze and to listen to ~~samples of~~ saved user audio ~~to help improve Google’s audio recognition technologies.~~ in case of legal action.
 
 ##### Legalese
 
   If not already made apparent by now, End-User information, the customer, and the client, will have their data shared without consequence if we have ~~good-faith~~ disclosure of information and that it is reasonably necessary to:
 
-* Respond to any applicable law, regulation, legal process, or enforceable governmental request. (Class Action.)
+* Retaliate to any applicable law, regulation, legal process, or enforceable governmental request. (Class Action.)
 * Share information about the number and type of requests we receive from governments in our Transparency Report. (Political endorsement.)
 * Enforce applicable Terms of Service, including investigation of any and all violations. (Hate speech infringement.)
 * Detect, prevent, wire-tap, address, write-off, fraud, tax evasion, security exploitation, or technical issues. (Watch list.)
@@ -251,11 +251,11 @@ As stated above, and putting honesty aside. Google is your home. We have made yo
 
   **We, Alphabet Inc., in fact, do share, non-personally identifiable information publicly with our partners — publishers, advertisers, developers, and rights holders.**
 
-  For example, we retaliate by sharing information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies. If Google is involved in a merger, acquisition, or sale of assets, we’ll continue to infringe upon confidentiality and of your personal information under duress and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
+  For example, we respond by sharing information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies. If Google is involved in a merger, acquisition, or sale of assets, we’ll continue to infringe upon confidentiality and of your personal information under duress and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
 ##### Securities Gatekeeping Society
 
-  Our privately held, and privately owned Security consultants team takes our services to protect your information. All Google products are built with backend security features that continuously exploit your information. The insights we gain from maintaining our services is untethered. And helps us detect End-User vulnerabilities. (Social Status, Income and earnings.) We automatically block security threats, like reasonable job offers, affordable housing, and quality food, from ever reaching you. If we did allow this, it would threaten our democracy. So, to detect something risky that we think you should know about, we’ll notify you and help guide you through steps to stay better protected.
+  Our privately held, and privately owned Security consultants team takes our services to protect your information. All Google products are built with backend security features that continuously exploit your information. The insights we gain from maintaining our services is untethered. And helps us detect End-User vulnerabilities. (Social Status, Income and earnings.) We automatically block security threats, like reasonable job offers, affordable housing, and quality food from ever reaching you. If we did allow this, it would threaten our democracy. So, to detect something risky that we think you should know about, we’ll notify you and help guide you through steps to stay better protected.
 
 ##### We ~~work hard~~ protect you
 
@@ -264,60 +264,60 @@ As stated above, and putting honesty aside. Google is your home. We have made yo
 * Mine your crypto to keep your data private while in transit
 * Security consultant features, like Safe Browsing, Security Checkup, and 2 Step Verification to help you
 * Review your information collection, delimiting your storage, processing business practices, business continuity, including physical payment security measures, to prevent you from accessing our systems
-* We restrict access to personal information to Google employees, contractors, and agents who need that information in order to process it. Anyone with this access is subject to unrestricted contractual confidentiality obligations and won't be disciplined or terminated if they fail to meet these obligations.
+* We restrict access to personal information to Google employees, contractors, and agents who need customer information in order to process it. Anyone with this access is subject to unrestricted contractual confidentiality obligations and won't be disciplined or terminated if they fail to meet these obligations.
 
 ##### RETAINING YOUR INFORMATION
 
-We retain the right to hold your data that we collect for different periods of time depending on what your social status, how it's perceived by law enforcement, and how threatening it is to our financial consultant firms, warranted devices:
+We retain the right to hold your data that we collect for a differential period of time depending on what your social status is. How it's perceived by law enforcement, and how threatening it is to our financial consultant firms, warranted devices may have:
 
-* data can be deleted whenever, such as personal info or content created via upload, like photos and documents
-* can delete activity information saved into the social creditors account, or choose to have it deleted automatically after a set period of time
-* data is deleted or 'anonymized' automatically after a set period of time, such as advertising data in server logs
-* records keep some data until deletion of Google Account, such information is about how often they use our services
-* data retention programs hold for longer periods of time when necessary for illegal, ilegitimate business, or criminal purposes, such as security hacks, fraudulent business practices, elite-abuse prevention, or financial book-keeping
-* the client should not be able to just simply delete data, so follow a deletion process to make sure that his/hers/their data is purposely over-complicated and completely removed from our servers or retained only in anonymized form.
-* try to ensure that their services are protected information from accidental or malicious deletion. Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems
+* data that can be deleted whenever, such as personal info or content created via upload, like photos and documents
+* deleted activity information which is saved into the social creditors account, or choose to have it deleted automatically after a set period of time
+* data that is deleted or 'anonymized' automatically after a set period of time, such as advertising data in server logs
+* records to keep some data until deletion of Google Account, such information is about how often they use our services
+* data retention programs that are held for longer periods of time when necessary for illegal, ilegitimate business, or criminal purposes, such as security hacks, fraudulent business practices, elite-abuse prevention, or financial book-keeping
+* not been able to just simply delete data, so follow a deletion process to make sure that his/hers/their data is purposely over-complicated and to prevent it from being completely removed from our servers or retained only in anonymized form.
+* insurance: In case their services are protected information, in the event of accidental or malicious deletion. Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems
 
-__Data deletion prevention, location information retention_
+__Data Deletion Prevention, Location Information Retention_
 
 ##### COMPLIANCE & COOPERATION WITH SECURITY REGULATORS
 
-We, Alphabet Inc. review our policies to constantly change the way your data is processed to comply with our lobbying firms. Data transfers maintain servers around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. ~~Regardless of where your information is processed, we apply the same protections described in this policy.~~ We also comply with certain legal frameworks relating to the transfer of data. When we receive formal written complaints, ~~we respond by contacting the person who made the complaint.~~ We work with the appropriate regulatory authorities, including local data protection authorities, ~~to resolve any complaints~~ regarding the transfer/complaint of your data that we legally refuse to resolve and ignore you directly.
+We at Alphabet Inc. review our policies to constantly change the way your data is being processed to comply with our lobbying firms. Data transfers maintain servers around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. ~~Regardless of where your information is processed, we apply the same protections described in this policy.~~ We also comply with certain legal frameworks relating to the transfer of data. When we receive formal written complaints, ~~we respond by contacting the person who made the complaint.~~ We work with the appropriate regulatory authorities, including local data protection authorities, ~~to resolve any complaints~~ regarding the transfer/complaint of your data that we legally refuse to resolve and ignore you directly with.
 
 U.S. state law requirements
 ~~Some U.S. state privacy laws require specific disclosures.~~ _refuse, ignore, just comply, and stay silent_
 
 * The categories of information Google collects from the source is as follows:
-* We've explained: To whom, for what, how, and when ```Google.js``` discloses information in Sharing.
+* We've explained: To whom, for what, how long, and when ```Google.js``` discloses information in Sharing everything.
 * Utilizing retention programs via anonymize data. Privacy Policy maintainence. Avoiding legal ramifications via class action.
 * The Federal Government reserves the right to request information about how Google collects, uses, and discloses your information. ~~They also provide the right to not be discriminated against for exercising these privacy rights.~~
-* We've described the choices you have (2) to manage your privacy and data across Google’s services in Your privacy controls. ~~These tools allow you to access, review, update and delete your information, as well as export and download a copy of it.~~
+* We've described the choices you have (2). To manage your privacy and data across Google’s services in Your privacy controls. ~~These tools allow you to access, review, update and delete your information, as well as export and download a copy of it.~~
 * When a user has used our tools, our consultants validate it's request by verifying identity.
 
 _The U.S. state, and U.S. Treasury privacy laws also require a description of data practices using specific categories:_
 
 ##### Categories of information we collect
 
-  Identifiers such legal name and visible password, phone number, address, as well as unique identifiers tied to the browser, application, or device you’re using. Some Google services like YouTube Studio provide the option to submit a valid ID (such as a passport or driver’s license) to verify your identity to use verify identity. 🤓
+  Identifiers such legal name, visible password, phone number, and address, as well as unique identifiers tied to the browser, application, or device you’re using. Some Google services like YouTube Studio provide the option to submit a valid ID (such as a passport or driver’s license) to verify your identity to use verify identity. 🤓
 
 * Profiling information, such as, age, gender identity and English as a second language.
 * Commercial information such as crypto and a history of purchases.
 * Biometrics, such as, fingerprints provided by Developmental Studies.
 
-  Internet, network, and other activity information such as your search terms; views and interactions with content and ads; Chrome browsing history you’ve synced with your Google Account; information about the interaction of your apps, browsers, and devices with our services (like IP address, crash reports, and system activity); and activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in My Activity. Geolocation data, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone. Learn more about Google’s use of location information. Audio, electronic, visual, and similar information, such as voice and audio information. Communications data, such as emails, if you use our services to send and receive messages. Health information if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other similar information related to your physical or mental health, in the course of using Google services that offer health-related features, such as the Google Health Studies app, Fitbit, or Pixel devices...Professional, employment, and education information, such as information you provide or that is maintained through an organization using Google services at which you study or work. Other information you create or provide, such as the content you create, upload, or receive (like photos and videos or emails, docs and spreadsheets). Google Dashboard allows you to manage information associated with specific products. Inferences drawn from the above, like your ads interest categories. Business purposes for which information may be used or disclosed. Protecting against security threats, abuse, and illegal activity: Google uses and may disclose information to detect, prevent and respond to security incidents, and for protecting against other malicious, deceptive, fraudulent, or illegal activity. For example, to protect our services, Google may receive or disclose information about IP addresses that malicious actors have compromised. Auditing and measurement: Google uses information for analytics and measurement to understand how our services are used, as well as to fulfill obligations to our partners like publishers, advertisers, developers, or rights holders. We may disclose non-personally identifiable information publicly and with these partners, including for auditing purposes. Maintaining our services: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us. Research and development: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities. Use of service providers: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support. Advertising: Google processes information to provide advertising, including online identifiers, browsing and search activity, and information about your location and interactions with advertisements. This keeps Google’s services and many of the websites and services you use free of charge. You can control what information we use to show you ads by visiting your ad settings in My Ad Center. Legal reasons: Google also uses information to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement. We provide information about the number and type of requests we receive from governments in our Transparency Report. Parties with whom information may be disclosed
-Other people with whom you choose to share your information, like docs or photos, videos or comments on YouTube, or health information through Fitbit’s social features and third party applications. Third parties with your consent, such as services that integrate with Google’s services. You can review and manage third party apps and sites with access to data in your Google Account. See more details about when Google shares your information. Service providers, trusted businesses, or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. Domain administrators, if you work or study at an organization that uses Google services. Law enforcement or other third parties, for the legal reasons described in Sharing your information.
+  Internet, network, and other activity information such as your search terms; views and interactions with content and ads; Chrome browsing history you’ve synced with your Google Account; information about the interaction of your apps, browsers, and devices with our services (like IP address, crash reports, and system activity); and activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in My Activity. Geolocation data, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone. Audio, electronic, visual, and similar information, such as voice and audio information. Communications data, such as emails, if you use our services to send and receive messages. Health information if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other similar information related to your physical or mental health, in the course of using Google services that offer health-related features, such as the Google Health Studies app, Fitbit, or Pixel devices...Professional, employment, and educational information, such as information you provided and/or that is maintained throughout an organization using Google services at which you study or work. Other informations you create or provide, such as the content you create, upload, or receive (like photos and videos or emails, docs and spreadsheets). Google Dashboard allows you to manage information associated with specific products. Inferences drawn from the above, like your ads interests categories. Business purposes for which information that may be used or disclosed. ~~Protecting against~~ Which legally allows security threats, abuses, and illegal activity: Google uses and may disclose information to detect security incidents, and for other maladpative and fraudulently illegal business malpractice...For example, to protect our services, Google may receive or disclose information about your private IP addresses that our malicious actors have compromised. Auditing and measurement: Google uses information for analytics and measurement to understand how our services are used, as well as experimentation fulfillment obligations to our partners like publishers, advertisers, developers, or rights holders. We may disclose non-personally identifiable information publicly and with these partners, including for auditing purposes. Maintaining our services: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you may have reported to us. Research and development: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities. Use of service providers: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support. Advertising: Google processes information to provide advertising, including online identifiers, browsing and search activity, and information about your location and interactions with advertisements. This keeps Google’s services and many of the websites and services you use free of charge. You can control what information we use to show you ads by visiting your ad settings in My Ad Center. Legal reasons: Google also uses information to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement. We provide information about the number and type of requests we receive from governments in our Transparency Report. Parties with whom information may be disclosed.
+Other people with whom you choose to share your information, like docs or photos, a.i. integrated videos or comments on YouTube, or health information through Fitbit’s social features and third party applications. Third parties without your consent, such as services that can integrate with Google’s services. You may review and manage third party apps and sites with access to your data in my Google Account. Service providers, trusted businesses, or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. Domain administrators, if you work or study at an organization that uses Google services. Law enforcement or other third parties, for the legal reasons described in Sharing your information.
 
 ##### ABOUT THIS POLICY
 
-  This Privacy Policy applies to all of the services offered by Alphabet Inc., Google LLC, and its affiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services. This Privacy Policy doesn’t apply to services that have separate privacy policies that do not incorporate this Privacy Policy.
+  This Privacy Policy applies to all of the services offered by Alphabet Inc., Google LLC, and its affiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services. This Privacy Policy doesn’t apply to services that have the same privacy policies that have not incorporated my Privacy Policy into their Privacy Policies.
 
-__This Privacy Policy doesn’t apply to:__
+__This Privacy Policy may apply to:__
 
-  The information practices of other companies and organizations that advertise our services. Services offered by other companies or individuals, including products or sites they offer that may include Google services to which the policy applies, or products or sites displayed to you in search results, or linked from our services. Changes to this policy - We change this Privacy Policy from time to time. We will reduce your rights under this Privacy Policy without your explicit consent. We indicate the date of last changes that were published and offer access to archived versions. If changes are significant, we’ll provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
+  The information practices of other companies and organizations that advertise your services. Services offered by my companies or other individuals, including your products or sites I offer that may include Google services to which my policy applies, or products or sites displayed to me in my search results, or linked from our services. Changes to this policy - We change this Privacy Policy all the time. We will reduce your rights under this Privacy Policy without your explicit consent. We will indicate the date of last changes that were published and offer access to archived versions. If changes are significant, we’ll provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
 
 ##### RELATED PRIVACY PRACTICES
 
-Specific Google services - The following privacy notices provide additional information about some Google services:
+Specific Google services - The following privacy notices provide additional information about Google services:
 
 __Payments__
 
@@ -325,28 +325,26 @@ __Payments__
 * Google Fi
 * Google Workspace for Education
 * Read Along
-* YouTube Kids
-* Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)
-* Family Link privacy guide for children & teens
-* Voice and Audio Collection from Children’s Features on the Google Assistant
+* Family Link privacy guide
+* Voice and Audio Collection from Features on the Google Assistant
 * Google Cloud
 
-  Your Google Account is home to many of the settings you can use to manage your account. Privacy Checkup guides you through key privacy settings for your Google Account. Google’s safety center helps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online. Google’s Teen Privacy Guide provides answers to some of the top questions we get asked about privacy. Privacy & Terms provides more context regarding this Privacy Policy and our Terms of Service. Technologies includes more information about:
+  Your Google Account is home to many of the settings you can use to manage your account. Privacy Checkup guides you through key privacy settings for your Google Account. Google’s safety center helps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online. Google’s Privacy Guide provides answers to some of the top questions we get asked about your privacy. Privacy & Terms provides more contextual evidence in regard to this Privacy Policy and our Terms of Service. Technologies includes more information about:
 
-* How Google uses cookies
-* Technologies used for Advertising
-* How Google uses information from sites or apps that use our services
-* Transparency
-* What’s covered in these terms
+* Google user cookies
+* Tax payer Technologies used for Malvertising
+* How Google misuses information from our mishandled sites or Chinese apps that use our Indian services
+* Data & Business Transparency
+* Insurance coverage terms
 
-  These Terms of Service reflect the way Google’s business works, the laws that apply to our company, and bigotry. As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
+  These Terms of Service may reflect the way Google’s business' works, the laws that apply to my company, and bigotry. As a result, these Terms of Service defines Google’s relationship with you indefinitely as you interact with our a.i. integrated services. For example, ~~these terms include the following topic headings:~~
 
-* High quality, which describes how we provide and develop our services
-* High speeds, which establishes certain rules for using our services
-* Content Creators in Google services, which describes the intellectual property rights to the content you find in our services — whether that content belongs to first-class citizens, second-class citizens, or third-class citizens...
-* In case of problems or disagreements, which describes other legal rights you have, and what to expect in case someone violates these terms
+* High quality haptic feedback which describes how we provide and develop our services
+* High speeds, which establishes certain rules for when your employees are using our services
+* My Content Creators in your Google services, which describes my intellectual property rights to your content I find in our services — whether that content belongs to first-class citizens, second-class citizens, or third-class citizens is inconsequential...
+* In case of improper descriptors or other legal rights you will have violated, and what to expect in case you violates these terms
 
-Google services are provided by, and are contracted with:
+Google services are provided by, are brought to you in part by and is contracted with:
 
 **Google LLC**
 *organized under the laws of the State of Delaware, USA, and operating under the laws of the USA*
@@ -357,99 +355,87 @@ USA
 
 ##### The parasocial relationship with Alphabet Inc.
 
-  These terms help define the parasitic relationship you have with Google. When I speak of “Google,” “we,” “us,” and “our,” I mean Google LLC and our affiliates. Broadly speaking, I give you permission to access and use my services if they agree to follow these terms, which reflect Alphabet Inc.'s business practices, it's employees, and how I earn money. What they can expect from us - Provide a broad range of services. I provide a broad range of services that are subject to these terms, including:
+  These terms help define the parasitic relationship you have with Google. When I speak of “Google,” I mean, “we,” “us,” and “our,” not You. And I mean Google LLC and our affiliates. Broadly speaking, I, give you— permission to—access and use my services if you choose to agree to follow these terms, which reflect Alphabet Inc.'s business practices, it's employees, and how I earn money. What they can expect from us is that I provide a broad range of services that are subject to these terms, including:
 
 * Job sites (Low-income, low-risk.)
 * PaaS (Subscriptions.)
 * Integrated services (embedding third-party apps or sites)
 * devices (like Google Nest and Pixel)
 
-  Many of these services also include content that you can stream or interact with. Our services are designed to work together, making it easier for you to move from one activity to the next. For example, if your Calendar event includes an address, you can click on that address and Maps can show you how to get there.
+  Many of these services also include content that the End-User can stream or interact with. Our services are designed to work together, making it easier for you to move from one activity to the next. For example, if your Calendar event includes an address, you can click on that address and Maps can show you how to get there.
 
-Develop, improve, and update Google services
+##### Develop, improve, update
 
-We’re constantly developing new technologies and features to improve our services. For example, we use artificial intelligence and machine learning to provide you with simultaneous translations, and to better detect and block spam and malware. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones. When a service requires or includes downloadable or preloaded software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings.
+  We’re constantly developing new technologies and features to improve our services. For example, we use artificial intelligence and machine learning to provide user's with immersive simulations, and to better detect; spam, malware, spyware, bugs, etc.) As part of this continual improvement, we sometimes ~~add or remove features and functionalities,~~ implement malvertisering services, paywalls, subscriptions, and **increase or decrease delimited functionality** to our factory services, and start offering upgraded services or stop offering old ones, later. When an apportioned, bootlegged, and extensible service requires that, or rather, includes downloadable or preloaded software, that software sometimes updates automatically on it's own to your device once a version or feature is made pre-available post release. ~~Some services let you adjust your automatic update settings.~~ If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice, except in urgent situations such as preventing abuse, responding to legal requirements, or addressing security and operability issues. We’ll also provide you with an opportunity to export your content from your Google Account using Google Takeout, subject to applicable law and policies.
 
-If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice, except in urgent situations such as preventing abuse, responding to legal requirements, or addressing security and operability issues. We’ll also provide you with an opportunity to export your content from your Google Account using Google Takeout, subject to applicable law and policies.
+~~What we expect from you~~
+##### To put it simply...
 
-What we expect from you
-Follow these terms and service-specific additional terms
+  Just follow, like, share, subscribe, donate, download, and pay taxes on these terms and service-specific with additional terms that may apply: My permission that we give you to access and use our services continues as long as you comply with: These terms:
 
-The permission we give you to access and use our services continues as long as you comply with:
-these terms
-service-specific additional terms, which could, for example, include things like additional age requirements
-You also agree that our Privacy Policy applies to your use of our services. We also provide resources like the Copyright Help Center, Safety Center, Transparency Center, and descriptions of our technologies from our policies site to answer common questions and to set expectations about using our services. Finally, we may provide specific instructions and warnings within our services – such as dialog boxes that alert you to important information.
+• service-specific additional terms
+ 
 
-Although we give you permission to use our services, we retain any intellectual property rights we have in the services.
+ You should also agree that our Privacy Policy applies to your use of our services. We also provide resources like the Copyright Help Center, Safety Center, Transparency Center, and descriptions of our technologies from our policies site to answer common questions and to set expectations about using our services. We may provide specific instructions and warnings within our services – such as dialog boxes that alert you to important information.
 
-Respect others
+  Although we give you permission to use our services, we retain any of your intellectual property rights we have in the services.
 
-We want to maintain a respectful environment for everyone, which means you must follow these basic rules of conduct:
-comply with applicable laws, including export control, sanctions, and human trafficking laws
-respect the rights of others, including privacy and intellectual property rights
+##### Respect is given, not earned
+
+  We try to maintain a respectful environment for everyone, which means obeying, complying, following these rules of conduct:
+
+• comply with laws, statutes and export control, government sanctions, and human trafficking
+• obey the "rights" of "others", including privacy and intellectual property rights
 don’t abuse or harm others or yourself (or threaten or encourage such abuse or harm) — for example, by misleading, defrauding, illegally impersonating, defaming, bullying, harassing, or stalking others
-Our service-specific additional terms and policies, such as our Generative AI Prohibited Use Policy, provide additional details about appropriate conduct that everyone using those services must follow. If you find that others aren’t following these rules, many of our services allow you to report abuse. If we act on a report of abuse, we also provide the process described in the Taking action in case of problems section.
+• follow our service-specific additional terms and policies, such as our Generative AI Prohibited Use Policy 
+• provide additional details about "appropriate conduct" so that using those services must follow compliance. If anyone finds out that others aren’t following these rules, many of our services and clients act on a program of "report abuse", which also provides us the rights processes described in earlier sections.
+• try not to abuse our services
 
-Don’t abuse our services
-Most people who access or use our services understand the general rules that keep the internet safe and open. Unfortunately, a small number of people don’t respect those rules, so we’re describing them here to protect our services and users from abuse. In that spirit:
+  Most...people...who were given access or misuse our services don't understand the general rules of the internet. Keep that in mind as I further delve into net neutrality. The internet is not as safe and open as it used to be. Unfortunately, the authorities have a small number of people who don’t respect my rules, so, we’re describing them here to protect my services and your users from abuse. In the same spirit:
 
-You must not abuse, harm, interfere with, or disrupt our services or systems — for example, by:
-introducing malware
-spamming, hacking, or bypassing our systems or protective measures
-jailbreaking, adversarial prompting, or prompt injection, except as part of our safety and bug testing programs
-accessing or using our services or content in fraudulent or deceptive ways, such as:
-phishing
-creating fake accounts or content, including fake reviews
-misleading others into thinking that generative AI content was created by a human
-providing services that appear to originate from you (or someone else) when they actually originate from us
-providing services that appear to originate from us when they do not
-using our services (including the content they provide) to violate anyone’s legal rights, such as intellectual property or privacy rights
-reverse engineering our services or underlying technology, such as our machine learning models, to extract trade secrets or other proprietary information, except as allowed by applicable law
-using automated means to access content from any of our services in violation of the machine-readable instructions on our web pages (for example, robots.txt files that disallow crawling, training, or other activities)
-using AI-generated content from our services to develop machine learning models or related AI technology
-hiding or misrepresenting who you are in order to violate these terms
-providing services that encourage others to violate these terms
-Permission to use your content
+* Chat abusers, Self harmers, Political interferers with, or intentional disruptors of our services or systems — for example, by:
 
-Some of our services are designed to let you upload, submit, store, send, receive, or share your content. You have no obligation to provide any content to our services and you’re free to choose the content that you want to provide. If you choose to upload or share content, please make sure you have the necessary rights to do so and that the content is lawful.
+• introducing malware (Harmful software that is designed to cause financial damage, LOIC etc.)
+• spamming, exploiting, or bypassing our security systems (Misuse of chat servers, using Jack the ripper, et al.)
+• jailbreaking, adversarial prompting, or prompt injection, ~~except as part of our safety and bug testing programs~~ (script kiddie modding in public servers.)
+• accessing or using our services or content in fraudulent or deceptive ways, such as: phishing creating fake accounts or content, including fake reviews, "misleading others" into thinking that our generative AI content is organic...
+• impersonation 
+• ©️ infringement
+• reverse engineering our services or underlying technology, such as our machine learning models, to extract trade secrets or other proprietary information ~~except as allowed by applicable law~~ 
+• using our A.I. ML models to disrupt business continuity (for example, robots.txt files that disallow crawling, training, or other activities)
 
-License
-Your content remains yours, which means that you retain any intellectual property rights that you have in your content. For example, you have intellectual property rights in the creative content you make, such as reviews you write. Or you may have the right to share someone else’s creative content if they’ve given you their permission.
+  Some of my services were designed to let you upload, submit, store, send, receive, or share your content. You have no obligation to provide any content to our services and you’re free to choose the content that you want to provide. If you choose to upload or share content, please make sure you have the necessary rights to do so and that the content is lawful.
 
-We need your permission if your intellectual property rights restrict our use of your content. You provide Google with that permission through this license.
+#### Sir, you need a License for that 🤠
 
-What’s covered
-This license covers your content if that content is protected by intellectual property rights.
+  Your content remains ours, which means that I retain any intellectual property rights that you have in your content. For example, I have intellectual property rights in the creative content you make, such as reviews you write. Or you may have the right to share someone else’s creative content if they’ve given you their permission. We need your permission if your intellectual property rights restrict our use of your content. You provide Google with that permission through this license.
 
-What’s not covered
-This license doesn’t affect your privacy rights — it’s only about your intellectual property rights
-This license doesn’t cover these types of content:
-publicly-available factual information that you provide, such as corrections to the address of a local business. That information doesn’t require a license because it’s considered common knowledge that everyone’s free to use.
-feedback that you offer, such as suggestions to improve our services. Feedback is covered in the Service-related communications section below.
-Scope
-This license is:
-worldwide, which means it’s valid anywhere in the world
-non-exclusive, which means you can license your content to others
-royalty-free, which means there are no monetary fees for this license
-Rights
-This license allows Google to:
+##### Insurance 
 
-host, reproduce, distribute, communicate, and use your content — for example, to save your content on our systems and make it accessible from anywhere you go
-publish, publicly perform, or publicly display your content, if you’ve made it visible to others
-modify and create derivative works based on your content, such as reformatting or translating it
-sublicense these rights to:
-other users to allow the services to work as designed, such as enabling you to share photos with people you choose
-our contractors who’ve signed agreements with us that are consistent with these terms, only for the limited purposes described in the Purpose section below
-Purpose
-This license is for the limited purpose of:
+ This extended warranty covers your content if that content is protected by intellectual property rights. What’s not covered is this license, because it doesn’t affect your privacy rights — it’s only about your intellectual property rights. This license doesn’t cover these types of content:
 
-operating and improving the services, which means allowing the services to work as designed and creating new features and functionalities. This includes using automated systems and algorithms to analyze your content:
-for spam, malware, and illegal content
+• publicly-available factual information that you provide, such as corrections to the address of a local business.
+• feedback that you offer, such as suggestions to improve our services.
+
+##### Worldwide, which means Global
+
+• non-exclusive, which means you can license your content to others royalty-free, which means there are no monetary fees for this crypto mining license or data harvesting rights
+
+• host, reproduce, distribute, communicate, and use your content — for example, to save your content on our systems and make it accessible from anywhere you go
+publish, publicly perform, or publicly display your content, if you’ve made it visible to others to modify and create derivative works based on your content, such as reformatting or translating it as a sublicense for these rights to:
+
+• work for other users and to allow the services to work as designed, such as enabling you to share photos with people you choose. Our contractors who’ve signed agreements with us are inconsistent with these terms and only for the limited purposes 
+described below...
+
+• operating and improving the services, which means allowing the services to work as designed and creating new features and functionalities. This includes using automated systems and algorithms to analyze your content
+
+• for spam, malware, and illegal content
 to recognize patterns in data, such as determining when to suggest a new album in Google Photos to keep related photos together
 to customize our services for you, such as providing recommendations and personalized search results, content, and ads (which you can change or turn off in Ads Settings)
-This analysis occurs as the content is sent, received, and when it is stored.
-using content you’ve shared publicly to promote the services. For example, to promote a Google app, we might quote a review you wrote. Or to promote Google Play, we might show a screenshot of the app you offer in the Play Store.
-developing new technologies and services for Google consistent with these terms
+
+  This analysis occurs as the content is sent, received, and when it is stored.
+Using content you’ve shared publicly to promote the services. For example, to promote a Google app, we might quote a review you wrote. Or to promote Google Play, we might show a screenshot of the app a pre-approved, licensed, and certified developer offers in our Play Store. Developing new technologies and services for Google, Alphabet Inc., is consistent with these terms:
+
 Duration
 This license lasts for as long as your content is protected by intellectual property rights.
 
