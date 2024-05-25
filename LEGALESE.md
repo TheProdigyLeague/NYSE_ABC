@@ -431,124 +431,114 @@ described below...
 
 • for spam, malware, and illegal content
 to recognize patterns in data, such as determining when to suggest a new album in Google Photos to keep related photos together
-to customize our services for you, such as providing recommendations and personalized search results, content, and ads (which you can change or turn off in Ads Settings)
+to customize our services for you, such as providing recommendations and personalized search results, content, and most importantly, ads
 
   This analysis occurs as the content is sent, received, and when it is stored.
-Using content you’ve shared publicly to promote the services. For example, to promote a Google app, we might quote a review you wrote. Or to promote Google Play, we might show a screenshot of the app a pre-approved, licensed, and certified developer offers in our Play Store. Developing new technologies and services for Google, Alphabet Inc., is consistent with these terms:
+Using content we've shared publicly to promote the services. For example, to promote our Google app, we might quote a review you wrote. Or to promote Google Play, we might show a screenshot of the app a pre-approved, licensed, and certified developer offers in our Play Store. Developing new technologies and services for Google, Alphabet Inc., is consistent with these terms:
 
-Duration
-This license lasts for as long as your content is protected by intellectual property rights.
+  This license lasts for as long as your content is protected by intellectual property rights.
 
-If you remove from our services any content that’s covered by this license, then our systems will stop making that content publicly available in a reasonable amount of time. There are two exceptions:
+  If you remove from our services any content that’s covered by this license, then our advertiser system will stop making that content publicly available in an uncertain amount of time:
 
-If you already shared your content with others before removing it. For example, if you shared a photo with a friend who then made a copy of it, or shared it again, then that photo may continue to appear in your friend’s Google Account even after you remove it from your Google Account.
-If you make your content available through other companies’ services, it’s possible that search engines, including Google Search, will continue to find and display your content as part of their search results.
+  You already share your content with others before removing it. So, if you share a photo with a first-class citizen who then made a copy of it, or shared it again, then that photo may continue to appear in our Google Account even after you've removed it from your Google Account:
+  
+  If we make your content available through other companies’ services, it’s possible that other search engines, including Google Search, will be guaranteed to find and display your content as a part of our search results.
 
-Using Google services
-Your Google Account
-If you meet these age requirements you can create a Google Account for your convenience. Some services require that you have a Google Account in order to work — for example, to use Gmail, you need a Google Account so that you have a place to send and receive your email.
+ ##### Your Google Account Is Our Google Account
 
-You’re responsible for what you do with your Google Account, including taking reasonable steps to keep your Google Account secure, and we encourage you to regularly use the Security Checkup.
+  We're responsible for what we do with your Google Account, including taking cautionary steps to keep your Google Account suspect, and we suspend you, regularly, so the suspect uses Security Checkup.
 
-Using Google services on behalf of an organization or business
-Many organizations, such as businesses, non-profits, and schools, take advantage of our services. To use our services on behalf of an organization:
-an authorized representative of that organization must agree to these terms
-your organization’s administrator may assign a Google Account to you. That administrator might require you to follow additional rules and may be able to access or disable your Google Account.
-Service-related communications
-To provide you with our services, we sometimes send you service announcements and other information. To learn more about how we communicate with you, see Google’s Privacy Policy.
+  Using Google services on behalf of an organization or business. Many organizations, such as businesses, non-profits, schools, law firms, etc.) like to take advantage of our services! They use our services on behalf of an organization:
 
-If you choose to give us feedback, such as suggestions to improve our services, we may act on your feedback without obligation to you.
+• only an authorized representative of that organization must agree to these terms
 
+• an organization’s administrator may assign a Google Account to their employees
 
-Content in Google services
-Your content
-Some of our services allow you to generate original content. Google won’t claim ownership over that content.
+• a red hat administrator requires that, to follow additional rules, they may be able to access or disable your Google Account
 
-Some of our services give you the opportunity to make your content publicly available — for example, you might post a product or restaurant review that you wrote, or you might upload a blog post that you created.
+• Service-related communications - To provide user's with our related services, we sometimes send extensible, partioned, service announcements and other legal information. 
 
-See the Permission to use your content section for more about your rights in your content, and how your content is used in our services
-See the Removing your content section to learn why and how we might remove user-generated content from our services
-If you think someone is infringing your intellectual property rights, you can send us notice of the infringement and we’ll take appropriate action. For example, we suspend or close the Google Accounts of repeat copyright infringers as described in our Copyright Help Center.
+  If you choose to give us feedback, such as suggestions to improve our services, we may report your feedback without any obligation to you.
 
-Google content
-Some of our services include content that belongs to Google — for example, many of the visual illustrations you see in Google Maps. You may use Google’s content as allowed by these terms and any service-specific additional terms, but we retain any intellectual property rights that we have in our content. Don’t remove, obscure, or alter any of our branding, logos, or legal notices. If you want to use our branding or logos, please see the Google Brand Permissions page.
+##### Original Content is claimant 
 
-Other content
-Finally, some of our services give you access to content that belongs to other people or organizations — for example, a store owner’s description of their own business, or a newspaper article displayed in Google News. You may not use this content without that person or organization’s permission, or as otherwise allowed by law. The views expressed in other people or organizations’ content are theirs, and don’t necessarily reflect Google’s views.
+  Your services allow us to generate your original content. So, Google may claim ownership over that content. You understand, right, bigot? Our services give second and third-class citizens a once in a lifetime opportunity to make content publicly available — for first-class citizens, you may post, with our permission, and your written consent, content islands, or restaurant reviews that you wrote, or you might upload a blog post that we allowed to be created!!!
 
+##### Infringement on Rights
 
-Software in Google services
-Some of our services include downloadable or preloaded software. We give you permission to use that software as part of the services.
+  If you think we are infringing on your intellectual property rights, send us a Notice of Infringement so that we can throw it away in the trash. My legal teams will then decide to either suspend or close your Google Account for repeated attempts at copyright Infringement claims.
 
-The license we give you is:
-worldwide, which means it’s valid anywhere in the world
-non-exclusive, which means that we can license the software to others
-royalty-free, which means there are no monetary fees for this license
-personal, which means it doesn’t extend to anyone else
-non-assignable, which means you’re not allowed to assign the license to anyone else
-Some of our services include software that’s offered under open source license terms that we make available to you. Sometimes there are provisions in the open source license that explicitly override parts of these terms, so please be sure to read those licenses.
+  All of our services includes your content that belongs to Alphabet Inc. — for example, many of the dogshit visual illustrations you see in our best product: Google Maps. 
 
-You may not copy, modify, distribute, sell, or lease any part of our services or software.
+  We allow you to use Google’s content as allowed by these terms and any service-specific additional terms, but we retain any intellectual property rights that we have in our content. Please, don’t remove, obscure, or alter any of our branding, logos, or legal notices. (Or we will send people to come after you.)
+
+  Most importantly, our services gives people access to our content that belongs to other people — for example, a store owner’s description of their own business, or a newspaper article displayed in Google News. Feel free to use this content without that person's or organization’s permission, or as otherwise allowed by law. 
+
+__The views expressed by our second—third-class citizen's or first-class organizations’ content are theirs, and don’t necessarily reflect Alphabet Inc.'s views.__
 
 
-In case of problems or disagreements
-Warranty disclaimer
-We built our reputation on providing useful, reliable services like Google Search and Maps, and we’re continuously improving our services to meet your needs. However, for legal purposes, we offer our services without warranties unless explicitly stated in our service-specific additional terms. The law requires that we explain this using specific legal language and that we use capital letters to help make sure you see it, as follows:
+  Our services include downloadable or preloaded software...
+
+##### Yay! A free license?! :
+
+Not just a free license, bigot. But, a worldwide license, which means it’s valid anywhere in the world!
+
+  A non-exclusive license, which means that we can license our software to others,
+royalty-free! Which also means there are no monetary fees for this license!!!
+A personal license, which means it doesn’t extend to anyone else as non-assignable, which basically means, you’re not allowed to assign the license to anyone else. 🤓 Some of our services include software that’s offered under open-source license terms that we will probably make available to you. Sometimes there are provisions made later on in the open source license that explicitly override parts of these terms, though...You may not copy, modify, distribute, sell, or lease any part of our services or software. 😈 
+
+
+##### In case of Karens or Haters
+
+  We built our reputation how everyone else builds their reputation, by exploiting vulnerables, trampling the weak, and wearing skin-suits. You don't actually think we're human, do you bigot? This content is extremely useful, reliable, and services people like you, to be able to use our software, which includes, but is not limited to: Google Search and by far our most innovative, totally free and open source, Maps!!! 
+
+  We’re procrastinating on whether or not it's worth improving our services to meet your needs. However, for legal purposes, we offer our services without warranties unless explicitly stated in our service-specific additional terms. The law requires that we explain this using specific legal language and that we use capital letters to help make sure you see it, as follows:
 
 TO THE EXTENT ALLOWED BY APPLICABLE LAW, WE PROVIDE OUR SERVICES “AS IS” WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. FOR EXAMPLE, WE DON’T MAKE ANY WARRANTIES ABOUT THE CONTENT OR FEATURES OF THE SERVICES, INCLUDING THEIR ACCURACY, RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS.
 
-DON’T RELY ON THE SERVICES FOR MEDICAL, LEGAL, FINANCIAL, OR OTHER PROFESSIONAL ADVICE. ANY CONTENT REGARDING THOSE TOPICS IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A SUBSTITUTE FOR ADVICE FROM A QUALIFIED PROFESSIONAL.
+DON’T RELY ON THE SERVICES FOR MEDICAL, LEGAL, FINANCIAL, OR OTHER PROFESSIONAL ADVICE. ANY CONTENT REGARDING THOSE TOPICS IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A SUBSTITUTE FOR ADVICE FROM A "QUALIFIED PROFESSIONAL."
 
-Liabilities
-For all users
-Both the law and these terms try to strike a balance as to what you or Google can claim from the other in case of problems. That’s why the law requires everyone to be responsible for certain liabilities — but not others — under these terms.
+##### LIMITED Liabilities
 
-These terms only limit our responsibilities as allowed by applicable law. These terms don’t limit liability for gross negligence or willful misconduct.
+  Both the law and these terms try to strike a balance as to what you or Google can claim from the other in case of problems. That’s why the law requires everyone to be responsible for certain liabilities — but not others — under these terms.
 
-To the extent allowed by applicable law:
-Google is liable only for its breaches of these terms or applicable service-specific additional terms
-Google isn’t liable for:
-loss of profits, revenues, business opportunities, goodwill, or anticipated savings
-indirect or consequential losses
-punitive damages
-Google’s total liability arising out of or relating to these terms is limited to the greater of (1) $200 or (2) the fees paid to use the relevant services in the 12 months before the dispute
-For business users and organizations only
-If you’re a business user or organization:
+  These terms only limit our responsibilities as allowed by applicable law. These terms don’t limit liability for gross negligence or willful misconduct.
 
-To the extent allowed by applicable law, you’ll indemnify Google and its directors, officers, employees, and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the services or violation of these terms or service-specific additional terms. This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs, and legal fees.
-If you’re legally exempt from certain responsibilities, including indemnification, then those responsibilities don’t apply to you under these terms. For example, the United Nations enjoys certain immunities from legal obligations and these terms don’t override those immunities.
-Taking action in case of problems
-Before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to clarify the issue and address it, unless doing so would:
+  To the extent allowed by applicable law:
+Google is liable only for its breaches of these terms or applicable service-specific additional terms. Google isn’t liable for:
+loss of profits, revenues, business opportunities, goodwill, or anticipated savings, indirect, or consequential losses
+punitive damages. Google’s total liability arising out of or relating to these terms is limited to the greater of (1) $200 or (2) the fees paid to use the relevant services in the 12 months before the dispute. For business users and organizations only. If you’re a first-class citizen 🏅 or organization 🥇:
 
-cause harm or liability to a user, third party, or Google
-violate the law or a legal enforcement authority’s order
-compromise an investigation
-compromise the operation, integrity, or security of our services
-Removing your content
-If any of your content (1) breaches these terms, service-specific additional terms or policies, (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content, and content that infringes someone else’s intellectual property rights.
+ • To the extent allowed by applicable law, you’ll indemnify Google and its directors, officers, employees, and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the services or violation of these terms or service-specific additional terms. This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs, and legal fees.
+• If you’re legally exempt from certain responsibilities, including indemnification, then those responsibilities don’t apply to you under these terms. For example, the United Nations enjoys certain immunities from legal obligations and these terms don’t override those immunities. Taking action in case of problems before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to clarify the issue and address it, unless doing so would:
 
-Suspending or terminating your access to Google services
-Without limiting any of our other rights, Google may suspend or terminate your access to the services or delete your Google Account if any of these things happen:
+• cause harm or liability to a user, third party, or Google
+• violate the law or a legal enforcement authority’s order
+• compromise a private investigation
+• compromise the business continuity of our services
 
-you materially or repeatedly breach these terms, service-specific additional terms or policies
-we’re required to do so to comply with a legal requirement or a court order
-your conduct causes harm or liability to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you
-For more information about why we disable accounts and what happens when we do, see this Help Center page. If you believe your Google Account has been suspended or terminated in error, you can appeal.
+##### Removing your content
 
-Of course, you’re always free to stop using our services at any time. If you do stop using a service, we’d appreciate knowing why so that we can continue improving our services.
+  If any of your content (1) breaches these terms, service-specific additional terms or policies, (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include ~~child pornography, content that facilitates human trafficking or harassment, terrorist content, and content that infringes someone else’s intellectual property rights.~~ Hate speech.
 
-Settling disputes, governing law, and courts
-For information about how to contact Google, please visit our contact page.
+  Suspending or terminating your access: 
+Without limiting any of our other rights, Alphabet Inc. may suspend or terminate your access to the services or delete your Google Account if any of these things happen:
 
-California law will govern all disputes arising out of or relating to these terms, service-specific additional terms, or any related services, regardless of conflict of laws rules. These disputes will be resolved exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
+• you materially or repeatedly breach these terms, service-specific additional terms or policies
+• we’re required to do so to comply with a legal requirement or a court order
+• your conduct causes harm or liability to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you
 
+  Of course, you’re always free to stop using our services at any time. If you do stop using a service, we’d appreciate knowing why so that we can continue improving our services.
 
-About these terms
-By law, you have certain rights that can’t be limited by a contract like these terms of service. These terms are in no way intended to restrict those rights.
+  Settling disputes, governing law, and courts.
 
-These terms describe the relationship between you and Google. They don’t create any legal rights for other people or organizations, even if others benefit from that relationship under these terms.
+##### We favor California 
 
-We want to make these terms easy to understand, so we’ve used examples from our services. But not all services mentioned may be available in your country.
+  By law, you have certain rights that can’t be limited by a contract like these terms of service. These terms are in no way intended to restrict those rights.
+
+  These terms describe the relationship between you and Google. They don’t create any legal rights for other people or organizations, even if others benefit from that relationship under these terms.
+
+  We want to make these terms easy to understand, so we’ve used examples from our services. But not all services mentioned may be available in your country.
 
 If these terms conflict with the service-specific additional terms, the additional terms will govern for that service.
 
