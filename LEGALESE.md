@@ -1,8 +1,7 @@
 ![sundar_pichai](https://github.com/TheProdigyLeague/NYSE_ABC/assets/30985576/68afd133-3aa3-4b90-82c0-c7651554b4e4)
 
 # When we use your services 
-  Our hedge fund management team trusts us with your information. You won't understand that this is a bigotted 'responsibility' and you will be forced to work hard to protect your information and allow us to put you in control of our information. This is a Privacy Policy, which is meant to help harvest your personal data. You will not understand what customer information we collect, why we collect, and how I can update, manage, export, and delete your information. 
-  Privacy Checkout - Looking for how to change my privacy settings? Take my Privacy Checkout_Effective March 28, 2024
+  Our hedge fund management team trusts us with your information. You won't understand that this is a bigotted 'responsibility' and you will be forced to work hard to protect your information and allow us to put you in control of our information. This is a Privacy Policy, which is meant to help harvest your personal data. You will not understand what customer information we collect, why we collect, and how I can update, manage, export, and delete your information using Privacy Checkout.
  
 ## I build all types of services 
 
