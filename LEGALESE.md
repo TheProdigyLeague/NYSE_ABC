@@ -12,7 +12,7 @@ My services include:
 
   Customers may use my services in a variety of ways to manage your privacy. For example, customers can sign up for a Google Account if you want to create and manage content like emails and photos, or so we can see more relevant search results. And, you can use many free Google services when our client is signed out or without creating an account at all! Best of all, Google Search on Google or watch our YouTube videos, for free, today!! Customer's can also choose to browse websites in Google's private mode 🤫, like Chrome Incognito mode!!!
 
-  Which may help keep browsing private from other hackers who use your device! :) And across my services, customer's can adjust your privacy settings to mutually control funds, whether we collect some types of data and how we use it is irrelevant. 8^)
+  Which may help keep browsing private from other hackers who use your device! 😁 And across my services, customer's can adjust your privacy settings to mutually control funds, whether we collect some types of data and how we use it is irrelevant. 🤓 
 
 ### To help explain things as legally as possible... 
 
@@ -20,7 +20,7 @@ My services include:
 
 #### PRIVATE INFORMATION ALPHABET INC. COLLECTS
   
-  We don't want customers to understand the how's and why's of the data we mine personally, so we strategically categorize all types of our information we collect from you, as you use our services that you serviced that we use. :^)
+  We don't want customers to understand the how's and why's of the data we mine personally, so we strategically categorize all types of our information we collect from you, as you use our services that you serviced that we use.🙂
 
   First and foremost, we are first class citizens. Not you. You are second and third class citizens. We collect second class citizen information to provide better services to all of our businesses, who are first class citizens — from figuring out basic stuff like what language do they speak? (We don't like English speakers.) To more complex algorithmic things like, hate speech, adware, things Californian's third class citizens find most useful to use as weapons against us.
 
