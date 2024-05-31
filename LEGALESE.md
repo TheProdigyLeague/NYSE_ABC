@@ -8,7 +8,7 @@
   That may help my millions of customers daily: Explore and interact with my businesses in methodical ways. 
 My services include: 
 
-* Google apps, Google sites, Google devices, Google Searches, Google YouTube, Google Your Home, Google Paywall, Google Adware, Google Platforms, Google Chrome, Google browsers, and our latest: The Google Android Operating System...Google Products: which are integrated into Google's third-party apps, like Google My Business sites, more ads, customer analytics, and by far, our most important product, dogwatered down Google Maps.
+* Google apps 📱, Google.com, Google devices, Google Searches, Google YouTube, Google Your Home, Google Paywall, Google Adware, Google Platforms, Google Chrome, Google browsers, and our latest: The Google Android Operating System...Google Products: which are integrated into Google's third-party apps, like Google My Business sites, more ads, customer analytics, and by far, our most important product, dogwatered down Google Maps.
 
   Customers may use my services in a variety of ways to manage your privacy. For example, customers can sign up for a Google Account if you want to create and manage content like emails and photos, or so we can see more relevant search results. And, you can use many free Google services when our client is signed out or without creating an account at all! Best of all, Google Search on Google or watch our YouTube videos, for free, today!! Customer's can also choose to browse websites in Google's private mode 🤫, like Chrome Incognito mode!!!
 
@@ -41,44 +41,44 @@ My services include:
 3.) You alone have chosen to provide us with this information by even using our services, that you chose to do. 
 For example, an email address to communicate with Google or receive updates about our services, is, by proxy, pwned by us, by default. <br> 
 
-  Additionally, collecting content: When you are a second class citizen, or rather, third class, it is better, and safer, to not create, upload, or even receive files from others online when using our services. This is because Google includes things like: The email headers you write and receive publicly, photos and videos you save privately within locked storage containers, docs and spreadsheets first class citizens create are the exception, and comments you dare make on our YouTube videos. Beware /!\ , only use our services and programs publicly when working in the job market we have created, For You. :)
+  Additionally, collecting content: When you are a second class citizen, or rather, third class, it is better, and safer, to not create, upload, or even receive files from others online when using our services. This is because Google includes things like: The email headers you write and receive publicly, photos and videos you save privately within locked storage containers, docs and spreadsheets first class citizens create are the exception, and comments you dare make on our YouTube videos. Beware ⚠️ , only use our services and programs publicly when working in the job market we have created, For You. 😉 
 
 #### Information we collect as you use our services
 
-  Our apps, browsers & devices that we create For You: collect information about the third party providers, add-ons, extensions, browsers, and devices you use to access Google services, which helps Alphabet Inc. Provide payment features like automatic crypto mining, product updates, and controlling your screen. The information we collect includes things like; unique identifiers, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the user's interaction of our apps, browsers, and devices with our services, including IP addresses, contacts, unintentional crash reports, operating system activity, and the date, time, and referrer URL of your request. We collect this information when a Google service is running on your device. Our servers — for example, install apps without your knowledge, or informed consent, from our Play Store that you must use! Or when our third-party services check for automatic updates. Unfortunately, using an Android device with Google apps is highly deprecated, obfuscated, and your device periodically contacts Google servers to provide information about your device and connection to our services. Consequently, this information includes things like your device type, carrier name, crash reports, which apps you've installed, and, depending on your device settings, other information about how you’re using our Android device. Getting upset about it just makes things worse, we're allowed to be upset, but, not you. We will get a rise out of you. Not the other way around, bigot.
+  Our apps, browsers & devices that we create For You: collect information about the third party providers, add-ons, extensions, browsers, and devices you use to access Google services, which helps Alphabet Inc. Provide payment features like automatic crypto mining, product updates, and controlling your screen. The information we collect includes things like; unique identifiers, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the user's interaction of our apps, browsers, and devices with our services, including IP addresses, contacts, unintentional crash reports, operating system activity, and the date, time, and referrer URL of your request. We collect this information when a Google service is running on your device. Our servers — for example, install apps without your knowledge, or informed consent, from our Play Store that you must use! Or when our third-party services check for automatic updates. Unfortunately, using an Android device with Google apps is highly deprecated, obfuscated, and your device periodically contacts Google servers to provide information about your device and connection to our services. Consequently, this information includes things like your device type, carrier name, crash reports, which apps you've installed, and, depending on your device settings, other information about how you’re using our Android device. Getting upset about it just makes things worse, we're allowed to be upset, but, not you. We will get a rise out of you. Not the other way around, bigot...
 
 #### Your activity
 
-  We collect information about your activity in our services, which we use as a weapon with Like/Subscribe/Share-only algorithms, (Don't you dare dislike) and recommendations of our corporate sponsors on YouTube, so video's you might like can create echo chambers, cults, and other interesting internet of things! But, the activity information we collect may include:
+  We collect information about your activity in our services, which we use as a weapon 🔪 with Like 👍🏾/Subscribe/Share-only algorithms, (Don't you dare dislike 👎) and recommendations of our corporate sponsors on YouTube, so video's you might like can create echo chambers, cults, and other interesting internet of things! But, the activity information we collect may include:
 
 * Terms you search, for security purposes.
 * Videos you watch, for security purposes.
 * Views, shadow bans, and interactions with other internet users, internet surfing content and chauvinistic corporate ads (For security purposes.)
 * Voice and audio information (Fat people can't type.)
-* Purchase activity for crypto mining.
-* 'People' with whom our bots communicate with or families who like to share our content. (To keep customer's addicted.)
+* Purchase activity for crypto mining. ⛏️ 
+* 'People' with whom our bots 🤖 communicate with or families who like to share our content. (To keep customer's addicted.)
 * Suspicious activity on third-party sites and apps that use our services without our consent.
 * Chrome browsing history you’ve synced with other Google Account's without our knowledge.
-
-  If customer's use our services to make and receive phone calls or send and receive text messages, we will collect all call logs and message log information with your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email addresses, time and date of calls and messages, duration of calls, routing information, types of volumes preceding calls and messages. (To file a search warrant if need be.) *We can record you, you will not record us.*
+💭 
+  If customer's use our services to make and receive phone calls or send and receive text messages, we will collect all call 🤙 logs and message log information with your phone 📱 number, calling-party number, 📞 receiving-party number, forwarding numbers, sender and recipient email addresses, time and date of calls and messages, duration of calls, routing information, types of volumes preceding calls and messages. (To file a search warrant if need be.) *We can record you, you will not record us.*
 
 **You can visit your Google Account to find and manage activity information that’s saved in your account that we created for you with the court's permission.**
 
 
 #### Go Google Account
 
-*We know where you fucking live.*
+*We know where you fucking live.* 🤬
 
-**We are constantly watching you.** 
-  Which helps us offer paid-for and tax deductible features like shitty driving directions, search results for things near you, and third-party, doctored and perfectly humane, political, and legal Advertisers based on your location that we share.
+**We are constantly watching you.** 👁️‍🗨️
+  Which helps us offer paid-for and tax deductible features like shitty driving directions, search results for things near you, and third-party, doctored and perfectly humane, political, and legal Advertisers based on your location that we share.🛸
 
-  Depending on our products you’re using, our settings we, Alphabet Inc., choose for you preimptively, may use different types of shared location information to help make more services and mutual funds! 
+  Depending on our products you’re using, our settings we, Alphabet Inc., choose for you preimptively, may use different types of shared location information to help make more services and mutual funds! ☺️ 
 
 These include:
 
 * Your GPS and biometrics.
 * Your Internet Service Provider and DNS Hostname.
-* Everything you are doing, from your searches at home to when you are traveling to work.
+* Everything you are doing, from your searches at home to when you are traveling to work. 🚗 
 * Information about things near your device, such as your refrigerator, critical access points like the toilet 🚽🪠, to our 5G cell towers. 🗼 
 
 #### Types of location data Alphabet Inc. collect 
@@ -100,18 +100,18 @@ These include:
 Google's uses various copyrighted, patented, and trademarked technology collections and store the End-User's information, including their cookies, pixelated algorithms, Google tags, their local storage and how much we allow them to have, browser web storage which we paywalled, application data caches to implement payment systems, deprecated, obfuscated, and confiscated databases reserved for businesses only, and customer server logs. (For security purposes.)
 
 
-#### WHY DOES GOOGLE COLLECTS ZE DATA?
+#### WHY DOES GOOGLE COLLECTS ZE DATA? 🤔 
 
 ~~We use data to build better services~~
 **ALPHABET INC. collects your data because we value profits over human life.**
 
-*We use information we collect from our services ~~for the following purposes:~~ to censor, monitor, record, poke, prod, get a rise out of, entice, incite, silence, instigate, antagonize, and exile potential competitors.*
+*We use information we collect from our services ~~for the following purposes:~~ to censor, monitor, record, poke, prod, get a rise out of, entice, incite, silence, instigate, antagonize, and exile potential competitors.* 💬 
 
 Thus, we must use your information to deliver our services, like processing the terms you search for in order to return our results or helping you share our content by suggesting recipients from our contacts. Simple, really.
 
-#### Maintain & improve our already garbage services
+#### Maintain & improve our already garbage services 😕 
 
-We also use your information to ensure our services are working as intended, such as tracking your location, or troubleshooting issues that we create on purpose that you suspiciously report to our third-parties. And we use this information, as such, to make adjustments for the sake of our third-party services — we wouldn't do it otherwise, guys! For example, understanding which search terms ~~frequently misspelled helps us improve spell-check features used across our services.~~ may incite societal unity.
+We also use your information to ensure our services are working as intended, such as tracking your location, or troubleshooting issues that we create on purpose that you suspiciously report to our third-parties. And we use this information, as such, to make adjustments for the sake of our third-party services — we wouldn't do it otherwise, guys! For example, understanding which search terms ~~frequently misspelled helps us improve spell-check features used across our services.~~ may incite societal unity. ✊ 
 
 #### Develop more invasive services
 
@@ -128,7 +128,7 @@ For example, let's say a customer of ours that we are out of touch with, searche
 * Alphabet Inc. shows you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
 * Alphabet Inc. shows you personalized ads based on your content from Drive, Gmail, or Photos.
 * Alphabet Inc. shares information that personally identifies you with advertisers, such as your name or email, even if you didn't ask us to. *Believe it...or nah*
-  For example, ~~if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.~~ If you see an advertisement delivered from China and are wondering "How did this company I have no interest in and have never done business with before suddenly have ALL of my personal information?!" Don't get upset and don't you dare report them, potential suspect. You better thank Google for delivering you that A.I. generated ad that you didn't ask for, and can't skip. For we will most certainly be selling (You) to another data broker...
+  For example, ~~if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.~~ If you see an advertisement delivered from China and are wondering "How did this company I have no interest in and have never done business with before suddenly have ALL of my personal information?!" Don't get upset and don't you dare report them, potential suspect. You better thank Google for delivering you that A.I. generated ad that you didn't ask for, and can't skip. For we will most certainly be selling (You) to another data broker... 🤡
 
 #### My Ads From Google
 
@@ -203,7 +203,7 @@ __Help us profiteers, so that we can profit.  Off You: The false prophet.__
 * Delete your content from specific Google conversion services _for a limited time only_
 * Search for and then delete specific items from your account using My Activity _for a monthly subscription_
 * Delete specific Alphabet Inc. products, including your information associated with those products _for a monthly subscription_
-* Delete your entire Google Account _apply now!_
+* Delete your entire Google Account _apply now!_ 😈
 
 ### Delete your information, apply today!
 
@@ -233,7 +233,7 @@ As stated above, and putting honesty aside. Google is your home 🏡. We have ma
 
   With domain administrators, of course. Even a fifth grader understands that if you’re a student working hard on being a worker for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account! So, they might as well be able to:
 
-* Access and retain information infrastructure stored in your account, like your email privileges
+* Access and retain information ℹ️ infrastructure stored in your account, like your email privileges
 * View, edit, and modify statistical analysis regarding your account, like comprehensive app installation
 * Literally change your account password and share it with other businessness
 * Shadow ban and/or limit access, or terminate your account access all together
@@ -242,7 +242,7 @@ As stated above, and putting honesty aside. Google is your home 🏡. We have ma
 
   We, at Alphabet 🔤 Inc. provide personal information to government affiliates and other business entities for outside organizations to process your data for us. We are Gods. We own this universe 😂. So, based on our instructions provided to them and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. We will use our pre-built service providers to help operate our data centers. This ensures proper, and accurate delivery of our products and services to employees, who then filtrate, improve, modify, edit, and view our internal business process implementation modulations and affairs that offer additional supportation to customers in turn to their location information. The users (You) also service our providers to help vendor, review, doctor, data broker to YouTube - video content. For public safety and to analyze and to listen to ~~samples of~~ saved user audio ~~to help improve Google’s audio recognition technologies.~~ in case of legal action.
 
-##### Legalese
+##### Legalese 🗄️
 
   If not already made apparent by now, End-User location information, the customer, and the client, have all the same data shared without consequence if we have ~~good-faith~~ disclosure of remediation and that it is reasonably necessary to:
 
@@ -250,7 +250,7 @@ As stated above, and putting honesty aside. Google is your home 🏡. We have ma
 * Share information about the number and type of requests we receive from governments in our Transparency Report. (Political endorsement.)
 * Enforce applicable Terms of Service, including investigation of any and all violations. (Hate speech infringement.)
 * Detect, prevent, wire-tap, address, write-off, defraud, tax evade, security exploitation, or any other technical issues. (Such as watch lists.)
-* Intentionally harm the rights, property or safety, our users, or the public in retaliation to what may be perceived as societal uprise.
+* Intentionally harm the rights, property or safety, our users, or the public in retaliation to what may be perceived as societal uprise. 🗃️
 
   **We, Alphabet Inc., in fact, do share, non-personally identifiable information publicly with our partners — publishers, advertisers, developers, and rights holders.**
 
@@ -287,7 +287,7 @@ __Data Deletion Prevention, Location Information Retention_
 
   We at Alphabet Inc. review our policies to constantly change the way your data is being processed to comply with our lobbying firms. Data transfers maintain servers around the world and your information may be processed on servers located outside of the country 🙀 where you live. Data protection laws vary among countries, with some providing more protection than others. ~~Regardless of where your information is processed, we apply the same protections described in this policy.~~ We also comply with certain legal frameworks relating to the transfer of data. When we receive formal written complaints, ~~we respond by contacting the person who made the complaint.~~ We work with the appropriate regulatory authorities, including local data protection authorities, ~~to resolve any complaints~~ regarding the transfer/complaint of your data that we legally refuse to resolve and ignore you directly with.
 
-U.S. state law requirements
+🇺🇲 U.S. 🇺🇲 state law requirements
 ~~Some U.S. state privacy laws require specific disclosures.~~ _refuse, ignore, just comply, and stay silent_ :$
 
 * The categories of information Google collects from the source is as follows:
@@ -297,7 +297,7 @@ U.S. state law requirements
 * We've described the choices you have (2). To manage your privacy and data across Google’s services in Your privacy controls. ~~These tools allow you to access, review, update and delete your information, as well as export and download a copy of it.~~
 * When a user has used our tools, our consultants validate it's request by verifying identity. 🥸
 
-_The U.S. state, and U.S. Treasury privacy laws also require a description of data practices using specific categories:_
+🇺🇲 _The U.S. state, and U.S. Treasury 🇺🇲 privacy laws also require a description of data practices using specific categories:_
 
 ##### Categories of information we collect
 
@@ -307,10 +307,10 @@ _The U.S. state, and U.S. Treasury privacy laws also require a description of da
 * Commercial information such as crypto and a history of purchases. ⚒️ 
 * Biometrics, such as, fingerprints provided by Developmental Studies. 🧪 
 
-  Internet, network, and other activity information such as your search terms; views and interactions with content and ads; Chrome browsing history you’ve synced with your Google Account; information about the interaction of your apps, browsers, and devices with our services (like IP address, crash reports, and system activity); and activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in My Activity. Geolocation data, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone. Audio, electronic, visual, and similar information, such as voice and audio information. Communications data, such as emails, if you use our services to send and receive messages. 📃 Health information if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other similar information related to your physical or mental health, in the course of using Google services that offer health-related features, such as the Google Health Studies app, Fitbit, or Pixel devices...Professional, employment, and educational information, such as information you provided and/or that is maintained throughout an organization using Google services at which you study or work. Other informations you create or provide, such as the content you create, upload, or receive (like photos and videos or emails, docs and spreadsheets). Google Dashboard allows you to manage information associated with specific products. Inferences drawn from the above, like your ads interests categories. Business purposes for which information that may be used or disclosed. ~~Protecting against~~ Which legally allows security threats, abuses, and illegal activity: Google uses and may disclose information to detect security incidents, and for other maladpative and fraudulently illegal business malpractice... 🦝 For example, to protect our services, Google may receive or disclose information about your private IP addresses that our malicious actors have compromised. 💻 Auditing and measurement: Google uses information for analytics and measurement to understand how our services are used, as well as experimentation fulfillment obligations to our partners like publishers, advertisers, developers, or rights holders. We may disclose non-personally identifiable information publicly and with these partners, including for auditing purposes. 📜 Maintaining our services: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you may have reported to us. 🛅 Research and development: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities. 🤖 Use of service providers: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support. 👨‍⚖️ Advertising: Google processes information to provide advertising, including online identifiers, browsing and search activity, and information about your location and interactions with advertisements. This up-keeps Google’s services and many of the websites and services you use ~~free of charge.~~ You can control what information we use to show you ads by visiting your ad settings in My Ad Center. Legal reasons: Google also uses information to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement. ⚖️ We provide information about the number and type of requests we receive from governments in our Transparency Report. Parties with whom information may be disclosed. 🌍
+  International network 🛜, network providers, and other satellite 📡 activity information such as your search terms; views and interactions with content and ads; Chrome browsing history you’ve synced with your Google Account; information about the interaction of your apps, browsers, and devices with our services (like IP 🛰️ address, crash reports, and system activity); and activity on third-party sites 📄 and apps that use our services. You can review and control activity data stored in your Google Account in My Activity. 📃 Geolocation data, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Depending on these settings, this may include precise location data, for example GPS data for Android features like navigation or finding your phone. Audio, electronic, visual, and similar information, such as voice and audio information. Communications data, such as emails, if you use our services to send and receive messages. Health 🏥 information if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other similar information related to your physical or mental health, in the course of using Google services that offer health-related features, such as the Google Health Studies app, Fitbit, or Pixel devices...Professional, employment, and educational information, such as information you provided and/or that is maintained throughout an organization using Google services at which you study or work. 💊 Other informations you create or provide, such as the content you create, upload, or receive (like photos and videos or emails, docs and spreadsheets). Google Dashboard allows you to manage information associated with specific products. Inferences drawn from the above, like your ads interests categories. Business purposes for which information that may be used or disclosed. ~~Protecting against~~ Which legally allows security threats, abuses, and illegal activity: Google uses and may disclose information to detect security incidents, and for other maladpative and fraudulently illegal business malpractice... 🦝 For example, to protect our services, Google may receive or disclose information about your private IP addresses that our malicious actors have compromised. 💻 Auditing and measurement: Google uses information for analytics and measurement to understand how our services are used, as well as experimentation fulfillment obligations to our partners like publishers, advertisers, developers, or rights holders. We may disclose non-personally identifiable information publicly and with these partners, including for auditing purposes. 📜 Maintaining our services: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you may have reported to us. 🛅 Research and development: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities. 🤖 Use of service providers: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support. 👨‍⚖️ Advertising: Google processes information to provide advertising, including online identifiers, browsing and search activity, and information about your location and interactions with advertisements. This up-keeps Google’s services and many of the websites and services you use ~~free of charge.~~ You can control what information we use to show you ads by visiting your ad settings in My Ad Center. Legal reasons: Google also uses information to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement. ⚖️ We provide information about the number and type of requests we receive from governments in our Transparency Report. Parties with whom information may be disclosed. 🌍
 Other people with whom you choose to share your information, like docs or photos, a.i. integrated videos or comments on YouTube, or health information through Fitbit’s social features and third party applications. Third parties without your consent, such as services that can integrate with et al. services. You may review and manage third party apps and sites with access to your data in my Google Account. Service providers, trusted businesses, or persons that process information on Alphabet Inc's. behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. Domain administrators, if you work or study at an organization that uses Alphabet Inc's servicess. Law enforcement or other third parties, for the legal reasons described in Sharing your information. 🚨 
 
-##### ABOUT THIS POLICY
+##### ABOUT THIS POLICY 👩‍🏫
 
   This Privacy Policy applies to all of the services offered by Alphabet Inc., Google LLC, and its affiliates, et. al.) including YouTube, Android, and services offered on third-party sites, such as advertising services. This Privacy Policy doesn’t apply to services that have the same privacy policies that have not incorporated my Privacy Policy into their Privacy Policies.
 
@@ -318,11 +318,11 @@ __This Privacy Policy may apply to:__
 
   The information practices of other companies and organizations that advertise your services. Services offered by my companies or other individuals, including your products or sites I offer that may include Google services to which my policy applies, or products or sites displayed to me in my search results, or linked from our services. Changes to this policy - We change this Privacy Policy all the time. We will reduce your rights under this Privacy Policy without your explicit consent. We will indicate the date of last changes that were published and offer access to archived versions. If changes are significant, we’ll provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). 👩‍💻
 
-##### RELATED PRIVACY PRACTICES
+##### RELATED PRIVACY PRACTICES 🔬
 
 Specific Google services - The following privacy notices provide additional information about Google services:
 
-__Payments__
+__Payments__ 💲
 
 * Fiber
 * Google Fi
@@ -351,7 +351,7 @@ Google services are provided by, are brought to you in part by and is contracted
 
 ## **Google LLC & et al.)**
 
-*organized under the laws of the State of Delaware, USA, and operating under the laws of the USA*
+*organized under the laws of the State of Delaware, USA 🇺🇲, and operating under the laws of the USA*
 
 _1600 Amphitheatre Parkway
 Mountain View, California 94043
@@ -366,7 +366,7 @@ USA_
 * Integrated services (embedding third-party apps or sites) 🇨🇳
 * devices (like Google Nest and Pixel) 🇷🇺
 
-  Many of these services also include content that the End-User can stream or interact with. 🖱️ Our services are designed to work together, making it easier for you to move from one activity to the next. 👁️👄👁️ For example, ~~if your Calendar event includes an address, you can click on that address and Maps can show you how to get there.~~ __If you take a picture with your camera, we'll make sure to hide it from you.__ 🗿
+  Many of these services also include content that the End-User can stream or interact with. 🖱️ Our services are designed to work together, making it easier for you to move from one activity to the next. 👁️ For example, ~~if your Calendar event includes an address, you can click on that address and Maps can show you how to get there.~~ __If you take a picture with your camera, we'll make sure to hide it from you.__ 🗿
 
 ##### Develop, improve, update, 🔁 
 
@@ -375,7 +375,7 @@ USA_
 ~~What we expect from you~~
 ##### To put it simply...
 
-  Our expectations are that you simply just follow, like, share, subscribe, donate, download, and pay taxes on these terms and service-specific with additional terms that will inevitably apply: My permission that we give you to access and use our services continues as long as you comply with: These terms:
+  Our expectations are that you simply just follow, like, share, subscribe, donate, download, and pay taxes 💲 on these terms and service-specific with additional terms that will inevitably apply: My permission that we give you to access and use our services continues as long as you comply with: These terms:
 
 • service-specific additional terms
  
@@ -406,7 +406,7 @@ USA_
 • impersonation 
 • ©️ infringement
 • reverse engineering our services or underlying technology, such as our machine learning models, to extract trade secrets or other proprietary information ~~except as allowed by applicable law~~ 🕴🏽
-• using our A.I. ML models to disrupt business continuity (for example, robots.txt files that disallow crawling, training, or other activities) 🤖
+• using our A.I. ML models to disrupt business continuity (for example, robots.txt files that disallow crawling, training, or other activities) 🤖™️
 
   Some of my services were designed to let you upload, submit, store, send, receive, or share your content. You have no obligation to provide any content to our services and you’re ~~free to choose the content that you want to provide.~~ If you choose to upload or share content, please make sure you have the necessary rights to do so and that the content is lawful. 📁
 
@@ -414,7 +414,7 @@ USA_
 
   Your content remains ours, which means that I retain any intellectual property rights that you have in your content. For example, I have intellectual property rights in the creative content you make, such as reviews you write. Or you may have the right to share someone else’s creative content if they’ve given you their permission. We need your permission if your intellectual property rights restrict our use of your content. You provide Alphabet Inc. with that permission through this license. 🪪
 
-##### Insurance 
+##### Insurance 💲
 
  This extended warranty covers your content if that content is protected by intellectual property rights. What’s not covered is this license, because it doesn’t affect your privacy rights — it’s only about your intellectual property rights. This license doesn’t cover these types of content:
 
@@ -448,7 +448,7 @@ Using content we've shared publicly to promote the services. For example, to pro
   
   If we make your content available through other companies’ services, it’s possible that other search engines, including Alphabet Inc., will be guaranteed to find and display your content as a part of our search results.
 
- ##### GOOGL
+ ##### GOOGL 🏢
 
   We're responsible for what we do with your Google Account, including taking cautionary steps to keep your Google Account suspect, and we suspend you, regularly, so the suspect uses Security Checkup. 🔏
 
