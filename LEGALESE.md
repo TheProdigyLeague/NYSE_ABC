@@ -14,6 +14,13 @@ My services include:
 
   Which may help keep browsing private from other hackers who use your device! 😁 And across my services, customer's can adjust your privacy settings to mutually control funds, whether we collect some types of data and how we use it is irrelevant. 🤓 
 
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/NYSE_ABC">
+    <img src="https://tse1.mm.bing.net/th?id=OIP.J_qfenzmeJx082eb5WeGyAHaHc&pid=Api" alt="Logo" width="400" height="300">
+  </a>
+
+  <h3 align="center">Alphabet Inc.</h3>
+
 ### To help explain things as legally as possible... 
 
   We add examples, very long lists, a thousand hours of explanatory, corporately shilled videos, and legalese definitions for charlatan buzzwords. And if customer's start asking those pesky questions about their privacy that we have indeed invaded, ignore them. Only businesses can contact us. (High social creditors with first class status citizenship is the rule.)
@@ -24,6 +31,13 @@ My services include:
 
   First and foremost, we are first class citizens. Not you. You are second and third class citizens. We collect second class citizen information to provide better services to all of our businesses, who are first class citizens — from figuring out basic stuff like what language do they speak? (We don't like English speakers.) To more complex algorithmic things like, hate speech, adware, things Californian's third class citizens find most useful to use as weapons against us.
 
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/NYSE_ABC">
+    <img src="https://tse2.mm.bing.net/th?id=OIP.1hX8tUyNC8XTZ8u6BLuGEAHaHa&pid=Api" alt="Logo" width="395" height="295">
+  </a>
+  
+  <h4 align="center">Alphabet Inc.</h4>
+
 #### The people who matter most: You online. 
 
   YouTube videos: For You, the information Alphabet Inc. collects, and how, We, use it. How you use our services and how you manage your privacy that we control.
@@ -33,6 +47,13 @@ My services include:
   When you’re not signed in to our Google Account, we get very angry. We do not have emotional control. So, we store your information that we've collected from you with third-party, California based, unique identifiers. Embedded into our corporate browser. It doesn't matter what apps you use, or what device that promises proxy programs. You allow us to do things like maintain your preferences across browsing sessions, China, India, Saudi Arabia, Russia, etc.) or whether we show you more relevant search results or ads based on your activity that we actively monitor.
 
   Therefore, when you’re signed in, which is what we prefer. (And will eventually force you to do.) We also collect your information that then becomes your family's information that is then stored within our Google Account that you created. Our treat. Your personal information.
+
+<p align="center">
+<a href="https://www.github.com/TheProdigyLeague/NYSE_ABC">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.Fw8DkP5K-u9SSdPfxZFmXAHaHa&pid=Api" alt="Logo" width="395" height="295">
+</a>
+
+<h4 align="center">Blue Head</h4>
 
 #### Things you create are provided to us:
 
@@ -99,6 +120,10 @@ These include:
 
 Google's uses various copyrighted, patented, and trademarked technology collections and store the End-User's information, including their cookies, pixelated algorithms, Google tags, their local storage and how much we allow them to have, browser web storage which we paywalled, application data caches to implement payment systems, deprecated, obfuscated, and confiscated databases reserved for businesses only, and customer server logs. (For security purposes.)
 
+<p align="center">
+<a href="https://www.github.com/TheProdigyLeague/NYSE_ABC">
+ <img src="https://tse3.mm.bing.net/th?id=OIP.DTrytJh3pDBSguzzeLDXUgHaKn&pid=Api" alt="logo" width="295" height="395">
+</a>
 
 #### WHY DOES GOOGLE COLLECTS ZE DATA? 🤔 
 
@@ -130,6 +155,11 @@ For example, let's say a customer of ours that we are out of touch with, searche
 * Alphabet Inc. shares information that personally identifies you with advertisers, such as your name or email, even if you didn't ask us to. *Believe it...or nah*
   For example, ~~if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.~~ If you see an advertisement delivered from China and are wondering "How did this company I have no interest in and have never done business with before suddenly have ALL of my personal information?!" Don't get upset and don't you dare report them, potential suspect. You better thank Google for delivering you that A.I. generated ad that you didn't ask for, and can't skip. For we will most certainly be selling (You) to another data broker... 🤡
 
+<p align="center">
+<a href="https://www.github.com/TheProdigyLeague/NYSE_ABC">
+  <img src="https://tse3.mm.bing.net/th?id=OIP._ZiPyz_UVn_X9TfhGSsb7gAAAA&pid=Api" alt="Logo" width="290" height="390">
+</a>
+
 #### My Ads From Google
 
 ~~Measure performance~~ **Ruin Performance**
@@ -140,6 +170,11 @@ For example, let's say a customer of ours that we are out of touch with, searche
 
 ⚠️ *Let us remind ourselves that the user has chosen to visit our sites whether they are starving, unemployed, and need food or not. **They have chosen to be hungry.** And have chosen to work for food. Therefore, they have chosen to use our apps to help us build things like, Google Analytics. Google Analytics is basically what the customer may choose to enable to then Google link that information about that pre-chosen activity from that chosen site or pre-installed app with third-party activity from other outsourced sites or developer apps that use our software hidden within ad services.*
 ©️™️👨‍🔧
+
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/NYSE_ABC">
+    <img src="https://tse2.mm.bing.net/th?id=OIP.Tqx7gOOsvJhvnfknSNwbPQHaFj&pid=Api" alt="Logo" width="290" height="385">
+  </a>
 
 
 #### SO HOW DO I PURCHASE FOOD? AND Where should I look for a job?
@@ -220,7 +255,7 @@ Device-level settings: Your modem may have controls that determine what informat
   
   For example, sharing videos on YouTube publicly can result in discplinary action if (You) are not high enough social credit. Remember, what you share is recorded permanently, thus, your content may be removed, and account being shadow banned following applicable laws, regulations, policies, and terms of services. Which is accessible throughout data harvesting, crypto mining, and search engine algorithms, including, but not limited to: Alphabet Inc's. ```Google_Search.js```
 
-#### Factory Manufacturing Warehouse Interaction Retail Service LLC Center Manager Co. Institute Firm of California Tech.
+#### Google Buzzwords.
 
   It's always fun 😀 to watch ⌚ social creditors flex 💪 their social status and high stakes earnings via video 📷, cringepost, shitepost, developed app, or a simple photo. We all love animals, and we all give animals money, clicks and views. Pampering them and displaying them for all the world to see 🙈...However, without the specific requirements met via advertised endorsements, this ultimately unites society. And we here at Alphabet Inc. cannot have a united society. Therefore, our latest program: Shared Endorsements will enforce this.
 
@@ -268,6 +303,11 @@ As stated above, and putting honesty aside. Google is your home 🏡. We have ma
 * 🚨 Security consultant features, like Safe Browsing, 🥸 Security Checkup, and 2FA to help you
 * ⚒️ Review your information collection, delimiting your storage, processing business practices, business continuity, including physical payment security measures, to prevent you from accessing our systems
 * 🚳 We restrict access to personal information to Alphabet Inc. employees, contractors, 📜 and agents who need customer information ℹ️ in order to process it. Anyone with this access is subject to unrestricted contractual confidentiality obligations and won't be disciplined or terminated if they fail to meet these obligations. 😗 
+
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/NYSE_ABC">
+    <img src="https://tse1.mm.bing.net/th?id=OIP.D9ZqGqzWKxXglhYY95z2MgHaDt&pid=Api" alt="Logo" width="285" height="375">
+  </a>
 
 ##### RETAINING YOUR INFORMATION
 
@@ -357,6 +397,7 @@ _1600 Amphitheatre Parkway
 Mountain View, California 94043
 USA_
 <hr>
+
 ##### The parasocial relationship with Alphabet Inc.
 
   These terms help define the parasitic relationships you and I have with Google. When I speak of “Google,” I mean, “we,” “us,” and “our,” Alphabet Inc., not You. And I mean Google LLC and our affiliates, et al. Broadly speaking, I, give you—permission to—access and use my services if—you—choose to agree to follow these terms, which reflect Alphabet Inc.'s business practices, it's employees, and how I earn money. 💸 What 'they' can expect from us is that I provide a broad range of services that are subject to these terms, including:
@@ -409,6 +450,11 @@ USA_
 • using our A.I. ML models to disrupt business continuity (for example, robots.txt files that disallow crawling, training, or other activities) 🤖™️
 
   Some of my services were designed to let you upload, submit, store, send, receive, or share your content. You have no obligation to provide any content to our services and you’re ~~free to choose the content that you want to provide.~~ If you choose to upload or share content, please make sure you have the necessary rights to do so and that the content is lawful. 📁
+
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/NYSE_ABC">
+    <img src="https://tse1.mm.bing.net/th?id=OIP.jOSonOm7RUhHXq3jdecGcwHaE8&pid=Api" alt="Logo" width="280" height="370">
+  </a>
 
 #### Sir, you need a License for that 🤠
 
@@ -481,6 +527,7 @@ Using content we've shared publicly to promote the services. For example, to pro
 __The views expressed by our second—third-class citizen's or first-class organizations’ content are theirs, and don’t necessarily reflect Alphabet Inc.'s views.__
 
 <hr>
+
   **Our services include downloadable or preloaded software...**
 
 ##### Yay! A free license?! :
@@ -501,6 +548,11 @@ A personal license, which means it doesn’t extend to anyone else as non-assign
 TO THE EXTENT ALLOWED BY APPLICABLE LAW, WE PROVIDE OUR SERVICES “AS IS” WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. FOR EXAMPLE, WE DON’T MAKE ANY WARRANTIES ABOUT THE CONTENT OR FEATURES OF THE SERVICES, INCLUDING THEIR ACCURACY, RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS.
 
 DON’T RELY ON THE SERVICES FOR MEDICAL, LEGAL, FINANCIAL, OR OTHER PROFESSIONAL ADVICE. ANY CONTENT REGARDING THOSE TOPICS IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A SUBSTITUTE FOR ADVICE FROM A "QUALIFIED PROFESSIONAL."
+
+<p align="center">
+  <a href="https://www.github.com/TheProdigyLeague/NYSE_ABC">
+    <img src="https://tse4.mm.bing.net/th?id=OIP.YjQ8_d_UMpgL0VphrmNfywHaD2&pid=Api" alt="Logo" width="275" height="365">
+  </a>
 
 ##### LIMITED LIABILITY 
 
